@@ -1,0 +1,2047 @@
+Year,Seaport,Country,Region,"Reclaimed area (km^2, raw)","Reclaimed area (km^2, smoothed)"
+1990,Abu Dhabi,UAE,Middle East,11.76,11.76
+1990,Alexandria,Egypt,Middle East,0.44,0.44
+1990,Algeciras,Spain,Mediterranean,0.62,0.62
+1990,Barcelona,Spain,Mediterranean,0,0
+1990,Busan,South Korea,Asia,5.6,5.6
+1990,Cartagena,Colombia,Central & South America,0.85,0.85
+1990,Colombo,Sri Lanka,Asia,0.33,0.33
+1990,Dalian,China,Asia,0.11,0.11
+1990,Dubai,UAE,Middle East,1.04,1.04
+1990,Durban,South Africa,Africa,0.31,0.31
+1990,Felixstowe,UK,Northern Europe,3.69,3.69
+1990,Genoa,Italy,Mediterranean,0,0
+1990,Guangzhou,China,Asia,9.29,9.29
+1990,Yeosu Gwangyang,South Korea,Asia,0.34,0.34
+1990,Hai Phong,Vietnam,Asia,3.63,3.63
+1990,Haikou,China,Asia,2.6,2.6
+1990,Hong Kong,China,Asia,1.16,1.16
+1990,Incheon,South Korea,Asia,0.86,0.86
+1990,Jeddah,Saudi Arabia,Middle East,2.43,2.43
+1990,Jiaxing,China,Asia,3.93,3.93
+1990,Jinzhou,China,Asia,0.34,0.34
+1990,Kaohsiung,Taiwan,Asia,10.08,10.08
+1990,Karachi,Pakistan,Asia,3.93,3.93
+1990,Dammam,Saudi Arabia,Middle East,0.96,0.96
+1990,King Abdullah,Saudi Arabia,Middle East,0,0
+1990,Port Klang,Malaysia,Asia,0.57,0.57
+1990,Kobe,Japan,Asia,1.28,1.28
+1990,Laem Chabang,Thailand,Asia,5.22,5.22
+1990,Le Havre,France,Northern Europe,1.16,1.16
+1990,Lianyungang,China,Asia,6.19,6.19
+1990,Lome,Togo,Africa,0.19,0.19
+1990,Los Angeles,USA,North America,0.85,0.85
+1990,Manila,Philippines,Asia,1.65,1.65
+1990,Manzanillo,Mexico,North America,0.81,0.81
+1990,Jawaharlal Nehru,India,Asia,1.36,1.36
+1990,Mundra,India,Asia,3.23,3.23
+1990,Nagoya,Japan,Asia,1.56,1.56
+1990,Ningbo-Zhoushan,China,Asia,12.11,12.11
+1990,Osaka,Japan,Asia,1.38,1.38
+1990,Piraeus,Greece,Mediterranean,0.68,0.68
+1990,Qingdao,China,Asia,4.77,4.77
+1990,Qinzhou,China,Asia,1.87,1.87
+1990,Quanzhou,China,Asia,0.2,0.2
+1990,Rizhao,China,Asia,2.27,2.27
+1990,Rotterdam,Netherlands,Northern Europe,9.79,9.79
+1990,Said,Egypt,Middle East,0,0
+1990,Salalah,Oman,Middle East,0.96,0.96
+1990,Shanghai,China,Asia,18.35,18.35
+1990,Shenzhen,China,Asia,6.93,6.93
+1990,Singapore,Singapore,Asia,16.42,16.42
+1990,Sydney,Australia,Oceania,0.32,0.32
+1990,Taicang,China,Asia,6.63,6.63
+1990,Taichung,Taiwan,Asia,11.31,11.31
+1990,Tanger Med,Morocco,Mediterranean,0.15,0.15
+1990,Tangshan,China,Asia,30.81,30.81
+1990,Tanjung Pelepas,Malaysia,Asia,1.77,1.77
+1990,Tanjung Perak,Indonesia,Asia,0,0
+1990,Tanjung Priok,Indonesia,Asia,0.52,0.52
+1990,Tianjin,China,Asia,11.71,11.71
+1990,Tokyo,Japan,Asia,6.07,6.07
+1990,Valencia,Spain,Mediterranean,1.2,1.2
+1990,Xiamen,China,Asia,0.18,0.18
+1990,Yantai,China,Asia,0.28,0.28
+1990,Yingkou,China,Asia,8.02,8.02
+1990,Yokohama,Japan,Asia,1.12,1.12
+1990,Zhuhai,China,Asia,1.4,1.4
+1991,Abu Dhabi,UAE,Middle East,14.24,14.24
+1991,Alexandria,Egypt,Middle East,0.47,0.47
+1991,Algeciras,Spain,Mediterranean,0.67,0.67
+1991,Barcelona,Spain,Mediterranean,0,0
+1991,Busan,South Korea,Asia,5.06,5.06
+1991,Cartagena,Colombia,Central & South America,0.88,0.88
+1991,Colombo,Sri Lanka,Asia,0.12,0.33
+1991,Dalian,China,Asia,0.79,0.68
+1991,Dubai,UAE,Middle East,1.1,1.1
+1991,Durban,South Africa,Africa,0.38,0.38
+1991,Felixstowe,UK,Northern Europe,3.69,3.69
+1991,Genoa,Italy,Mediterranean,0,0
+1991,Guangzhou,China,Asia,9.5,9.5
+1991,Yeosu Gwangyang,South Korea,Asia,0.35,0.35
+1991,Hai Phong,Vietnam,Asia,3.82,3.63
+1991,Haikou,China,Asia,2.28,2.37
+1991,Hong Kong,China,Asia,1.26,1.26
+1991,Incheon,South Korea,Asia,0.91,0.91
+1991,Jeddah,Saudi Arabia,Middle East,2.98,2.43
+1991,Jiaxing,China,Asia,3.8,3.93
+1991,Jinzhou,China,Asia,0.33,0.33
+1991,Kaohsiung,Taiwan,Asia,10.2,10.2
+1991,Karachi,Pakistan,Asia,3.76,3.93
+1991,Port Klang,Malaysia,Asia,0.43,0.43
+1991,Dammam,Saudi Arabia,Middle East,0.81,0.96
+1991,King Abdullah,Saudi Arabia,Middle East,0,0
+1991,Kobe,Japan,Asia,1.49,1.49
+1991,Laem Chabang,Thailand,Asia,5.24,5.24
+1991,Le Havre,France,Northern Europe,1.18,1.18
+1991,Lianyungang,China,Asia,6.35,6.35
+1991,Lome,Togo,Africa,0.28,0.28
+1991,Los Angeles,USA,North America,0.79,0.83
+1991,Manila,Philippines,Asia,1.89,1.65
+1991,Manzanillo,Mexico,North America,0.81,0.81
+1991,Jawaharlal Nehru,India,Asia,1.39,1.36
+1991,Mundra,India,Asia,3.27,3.27
+1991,Nagoya,Japan,Asia,3.18,3.18
+1991,Ningbo-Zhoushan,China,Asia,12.2,12.2
+1991,Osaka,Japan,Asia,1.43,1.38
+1991,Piraeus,Greece,Mediterranean,0.68,0.68
+1991,Qingdao,China,Asia,4.5,4.77
+1991,Qinzhou,China,Asia,1.81,1.81
+1991,Quanzhou,China,Asia,0.34,0.34
+1991,Rizhao,China,Asia,2.45,2.45
+1991,Rotterdam,Netherlands,Northern Europe,9.98,9.98
+1991,Said,Egypt,Middle East,0,0
+1991,Salalah,Oman,Middle East,0.91,0.96
+1991,Shanghai,China,Asia,18.4,18.4
+1991,Shenzhen,China,Asia,6.38,6.93
+1991,Singapore,Singapore,Asia,16.17,16.42
+1991,Sydney,Australia,Oceania,0.36,0.36
+1991,Taichung,Taiwan,Asia,11.9,11.9
+1991,Taicang,China,Asia,7.44,7.05
+1991,Tianjin,China,Asia,14.73,14.73
+1991,Tangshan,China,Asia,31.31,31.31
+1991,Tanger Med,Morocco,Mediterranean,0.34,0.34
+1991,Tokyo,Japan,Asia,6.36,6.19
+1991,Tanjung Priok,Indonesia,Asia,0.57,0.57
+1991,Tanjung Pelepas,Malaysia,Asia,1.79,1.79
+1991,Tanjung Perak,Indonesia,Asia,0,0
+1991,Valencia,Spain,Mediterranean,1.32,1.32
+1991,Xiamen,China,Asia,0.22,0.22
+1991,Yingkou,China,Asia,9.8,9.53
+1991,Yantai,China,Asia,0.26,0.26
+1991,Yokohama,Japan,Asia,1.15,1.13
+1991,Zhuhai,China,Asia,1.56,1.46
+1992,Abu Dhabi,UAE,Middle East,14.53,14.53
+1992,Alexandria,Egypt,Middle East,0.52,0.52
+1992,Algeciras,Spain,Mediterranean,0.68,0.68
+1992,Barcelona,Spain,Mediterranean,0,0
+1992,Busan,South Korea,Asia,5.02,5.6
+1992,Cartagena,Colombia,Central & South America,0.89,0.89
+1992,Colombo,Sri Lanka,Asia,0.42,0.33
+1992,Dalian,China,Asia,0.68,0.79
+1992,Dubai,UAE,Middle East,1.15,1.15
+1992,Durban,South Africa,Africa,0.44,0.43
+1992,Felixstowe,UK,Northern Europe,3.69,3.69
+1992,Genoa,Italy,Mediterranean,0,0
+1992,Guangzhou,China,Asia,9.57,9.57
+1992,Yeosu Gwangyang,South Korea,Asia,0.51,0.38
+1992,Hai Phong,Vietnam,Asia,3.15,3.63
+1992,Haikou,China,Asia,2.37,2.37
+1992,Hong Kong,China,Asia,1.29,1.29
+1992,Incheon,South Korea,Asia,0.92,0.92
+1992,Jeddah,Saudi Arabia,Middle East,2.43,2.46
+1992,Jiaxing,China,Asia,4.79,4.1
+1992,Jinzhou,China,Asia,0.33,0.33
+1992,Kaohsiung,Taiwan,Asia,10.31,10.31
+1992,Karachi,Pakistan,Asia,3.93,3.93
+1992,Port Klang,Malaysia,Asia,0.27,0.43
+1992,Dammam,Saudi Arabia,Middle East,1.06,1.01
+1992,King Abdullah,Saudi Arabia,Middle East,0,0
+1992,Kobe,Japan,Asia,1.78,1.78
+1992,Laem Chabang,Thailand,Asia,5.28,5.28
+1992,Le Havre,France,Northern Europe,1.32,1.32
+1992,Lianyungang,China,Asia,6.79,6.39
+1992,Lome,Togo,Africa,0.29,0.29
+1992,Los Angeles,USA,North America,0.83,0.85
+1992,Manila,Philippines,Asia,1.49,1.49
+1992,Manzanillo,Mexico,North America,0.98,0.98
+1992,Jawaharlal Nehru,India,Asia,1.26,1.39
+1992,Mundra,India,Asia,3.31,3.31
+1992,Nagoya,Japan,Asia,3.56,3.56
+1992,Ningbo-Zhoushan,China,Asia,12.41,12.41
+1992,Osaka,Japan,Asia,1.34,1.38
+1992,Piraeus,Greece,Mediterranean,0.69,0.69
+1992,Qingdao,China,Asia,4.85,4.77
+1992,Qinzhou,China,Asia,0.26,1.3
+1992,Quanzhou,China,Asia,0.39,0.39
+1992,Rizhao,China,Asia,2.52,2.45
+1992,Rotterdam,Netherlands,Northern Europe,10.21,10.21
+1992,Said,Egypt,Middle East,0,0
+1992,Salalah,Oman,Middle East,1,1
+1992,Shanghai,China,Asia,19.81,19.35
+1992,Shenzhen,China,Asia,7.11,7.11
+1992,Singapore,Singapore,Asia,16.93,16.42
+1992,Sydney,Australia,Oceania,0.39,0.36
+1992,Taichung,Taiwan,Asia,17.43,17.04
+1992,Taicang,China,Asia,7.05,7.05
+1992,Tianjin,China,Asia,15.45,15.45
+1992,Tangshan,China,Asia,32.56,32.56
+1992,Tanger Med,Morocco,Mediterranean,0.36,0.36
+1992,Tokyo,Japan,Asia,6.19,6.36
+1992,Tanjung Priok,Indonesia,Asia,0.59,0.55
+1992,Tanjung Pelepas,Malaysia,Asia,1.81,1.81
+1992,Tanjung Perak,Indonesia,Asia,0,0
+1992,Valencia,Spain,Mediterranean,1.67,1.56
+1992,Xiamen,China,Asia,0.32,0.32
+1992,Yingkou,China,Asia,9.53,9.16
+1992,Yantai,China,Asia,0.26,0.28
+1992,Yokohama,Japan,Asia,1.13,1.14
+1992,Zhuhai,China,Asia,1.48,1.48
+1993,Abu Dhabi,UAE,Middle East,14.61,14.61
+1993,Alexandria,Egypt,Middle East,0.66,0.66
+1993,Algeciras,Spain,Mediterranean,0.87,0.87
+1993,Barcelona,Spain,Mediterranean,0,0
+1993,Busan,South Korea,Asia,5.77,5.77
+1993,Cartagena,Colombia,Central & South America,0.91,0.91
+1993,Colombo,Sri Lanka,Asia,0.46,0.36
+1993,Dalian,China,Asia,0.96,0.96
+1993,Dubai,UAE,Middle East,1.36,1.36
+1993,Durban,South Africa,Africa,0.43,0.44
+1993,Felixstowe,UK,Northern Europe,3.69,3.69
+1993,Genoa,Italy,Mediterranean,0,0
+1993,Guangzhou,China,Asia,9.68,9.68
+1993,Yeosu Gwangyang,South Korea,Asia,0.38,0.4
+1993,Hai Phong,Vietnam,Asia,3.98,3.82
+1993,Haikou,China,Asia,2.34,2.41
+1993,Hong Kong,China,Asia,1.31,1.31
+1993,Incheon,South Korea,Asia,1.05,1.05
+1993,Jeddah,Saudi Arabia,Middle East,2.65,2.65
+1993,Jiaxing,China,Asia,4.1,4.14
+1993,Jinzhou,China,Asia,0,0.33
+1993,Kaohsiung,Taiwan,Asia,10.35,10.35
+1993,Karachi,Pakistan,Asia,4.37,4.37
+1993,Port Klang,Malaysia,Asia,0,0.43
+1993,Dammam,Saudi Arabia,Middle East,1.03,0.96
+1993,King Abdullah,Saudi Arabia,Middle East,0,0
+1993,Kobe,Japan,Asia,2.29,2.29
+1993,Laem Chabang,Thailand,Asia,6.34,6.34
+1993,Le Havre,France,Northern Europe,1.54,1.32
+1993,Lianyungang,China,Asia,6.39,6.42
+1993,Lome,Togo,Africa,0.33,0.33
+1993,Los Angeles,USA,North America,0.94,0.94
+1993,Manila,Philippines,Asia,1.23,1.49
+1993,Manzanillo,Mexico,North America,1.66,1.66
+1993,Jawaharlal Nehru,India,Asia,1.84,1.41
+1993,Mundra,India,Asia,3.33,3.33
+1993,Nagoya,Japan,Asia,3.82,3.82
+1993,Ningbo-Zhoushan,China,Asia,12.48,12.48
+1993,Osaka,Japan,Asia,1.38,1.37
+1993,Piraeus,Greece,Mediterranean,0.71,0.71
+1993,Qingdao,China,Asia,4.47,4.85
+1993,Qinzhou,China,Asia,1.3,1.3
+1993,Quanzhou,China,Asia,0.45,0.45
+1993,Rizhao,China,Asia,2.41,2.52
+1993,Rotterdam,Netherlands,Northern Europe,10.89,10.89
+1993,Said,Egypt,Middle East,0,0
+1993,Salalah,Oman,Middle East,1,1
+1993,Shanghai,China,Asia,19.35,19.81
+1993,Shenzhen,China,Asia,7.83,7.75
+1993,Singapore,Singapore,Asia,16.42,16.93
+1993,Sydney,Australia,Oceania,0.33,0.39
+1993,Taichung,Taiwan,Asia,17.44,17.43
+1993,Taicang,China,Asia,7.49,7.44
+1993,Tianjin,China,Asia,18.88,18.65
+1993,Tangshan,China,Asia,32.7,32.56
+1993,Tanger Med,Morocco,Mediterranean,0.39,0.34
+1993,Tokyo,Japan,Asia,7.09,7.09
+1993,Tanjung Priok,Indonesia,Asia,0.51,0.57
+1993,Tanjung Pelepas,Malaysia,Asia,1.84,1.84
+1993,Tanjung Perak,Indonesia,Asia,0,0
+1993,Valencia,Spain,Mediterranean,1.87,1.56
+1993,Xiamen,China,Asia,0.41,0.41
+1993,Yingkou,China,Asia,9.16,9.45
+1993,Yantai,China,Asia,0.35,0.35
+1993,Yokohama,Japan,Asia,1.14,1.15
+1993,Zhuhai,China,Asia,1.51,1.51
+1994,Abu Dhabi,UAE,Middle East,14.62,14.62
+1994,Alexandria,Egypt,Middle East,0.77,0.77
+1994,Algeciras,Spain,Mediterranean,0.89,0.89
+1994,Barcelona,Spain,Mediterranean,0,0
+1994,Busan,South Korea,Asia,6.61,6.61
+1994,Cartagena,Colombia,Central & South America,0.94,0.94
+1994,Colombo,Sri Lanka,Asia,0.08,0.42
+1994,Dalian,China,Asia,1.59,1.5
+1994,Dubai,UAE,Middle East,1.39,1.39
+1994,Durban,South Africa,Africa,0.48,0.48
+1994,Felixstowe,UK,Northern Europe,3.69,3.69
+1994,Genoa,Italy,Mediterranean,0,0
+1994,Guangzhou,China,Asia,9.71,9.71
+1994,Yeosu Gwangyang,South Korea,Asia,0.4,0.42
+1994,Hai Phong,Vietnam,Asia,3.38,3.91
+1994,Haikou,China,Asia,2.41,2.6
+1994,Hong Kong,China,Asia,1.34,1.34
+1994,Incheon,South Korea,Asia,2.42,2.24
+1994,Jeddah,Saudi Arabia,Middle East,2.46,2.98
+1994,Jiaxing,China,Asia,4.39,4.39
+1994,Jinzhou,China,Asia,0.37,0.37
+1994,Kaohsiung,Taiwan,Asia,10.38,10.38
+1994,Karachi,Pakistan,Asia,5,4.37
+1994,Port Klang,Malaysia,Asia,0.85,0.43
+1994,Dammam,Saudi Arabia,Middle East,1.01,0.96
+1994,King Abdullah,Saudi Arabia,Middle East,0,0
+1994,Kobe,Japan,Asia,2.39,2.39
+1994,Laem Chabang,Thailand,Asia,6.38,6.38
+1994,Le Havre,France,Northern Europe,1.63,1.32
+1994,Lianyungang,China,Asia,6.42,6.45
+1994,Lome,Togo,Africa,0.36,0.36
+1994,Los Angeles,USA,North America,0.98,0.98
+1994,Manila,Philippines,Asia,1.41,1.41
+1994,Manzanillo,Mexico,North America,1.84,1.66
+1994,Jawaharlal Nehru,India,Asia,1.41,1.41
+1994,Mundra,India,Asia,3.39,3.39
+1994,Nagoya,Japan,Asia,4.5,4.29
+1994,Ningbo-Zhoushan,China,Asia,12.58,12.58
+1994,Osaka,Japan,Asia,1.37,1.38
+1994,Piraeus,Greece,Mediterranean,0.73,0.73
+1994,Qingdao,China,Asia,6.13,5.64
+1994,Qinzhou,China,Asia,0,1.3
+1994,Quanzhou,China,Asia,0.78,0.71
+1994,Rizhao,China,Asia,2.55,2.55
+1994,Rotterdam,Netherlands,Northern Europe,12.23,12.23
+1994,Said,Egypt,Middle East,0,0
+1994,Salalah,Oman,Middle East,1.93,1.11
+1994,Shanghai,China,Asia,20.19,20.19
+1994,Shenzhen,China,Asia,7.75,7.83
+1994,Singapore,Singapore,Asia,17,17
+1994,Sydney,Australia,Oceania,0.89,0.85
+1994,Taichung,Taiwan,Asia,17.04,17.44
+1994,Taicang,China,Asia,6.78,7.49
+1994,Tianjin,China,Asia,18.65,18.88
+1994,Tangshan,China,Asia,32.92,32.7
+1994,Tanger Med,Morocco,Mediterranean,0.43,0.17
+1994,Tokyo,Japan,Asia,7.36,7.36
+1994,Tanjung Priok,Indonesia,Asia,0.55,0.55
+1994,Tanjung Pelepas,Malaysia,Asia,1.88,1.88
+1994,Tanjung Perak,Indonesia,Asia,2.02,2.02
+1994,Valencia,Spain,Mediterranean,1.56,1.45
+1994,Xiamen,China,Asia,0.46,0.46
+1994,Yingkou,China,Asia,9.11,9.45
+1994,Yantai,China,Asia,0.53,0.45
+1994,Yokohama,Japan,Asia,1.18,1.15
+1994,Zhuhai,China,Asia,1.56,1.56
+1995,Abu Dhabi,UAE,Middle East,14.63,14.63
+1995,Alexandria,Egypt,Middle East,0.79,0.79
+1995,Algeciras,Spain,Mediterranean,0.96,0.91
+1995,Barcelona,Spain,Mediterranean,0,0
+1995,Busan,South Korea,Asia,7.31,7.12
+1995,Cartagena,Colombia,Central & South America,0.95,0.95
+1995,Colombo,Sri Lanka,Asia,0.36,0.43
+1995,Dalian,China,Asia,1.53,1.53
+1995,Dubai,UAE,Middle East,1.41,1.39
+1995,Durban,South Africa,Africa,0.51,0.51
+1995,Felixstowe,UK,Northern Europe,3.71,3.68
+1995,Genoa,Italy,Mediterranean,0,0
+1995,Guangzhou,China,Asia,10.95,10.95
+1995,Yeosu Gwangyang,South Korea,Asia,0.42,0.42
+1995,Hai Phong,Vietnam,Asia,3.91,3.98
+1995,Haikou,China,Asia,2.6,2.6
+1995,Hong Kong,China,Asia,1.41,1.41
+1995,Incheon,South Korea,Asia,2.6,2.34
+1995,Jeddah,Saudi Arabia,Middle East,3.44,3.43
+1995,Jiaxing,China,Asia,4.14,4.39
+1995,Jinzhou,China,Asia,0.37,0.37
+1995,Kaohsiung,Taiwan,Asia,10.4,10.4
+1995,Karachi,Pakistan,Asia,4.79,4.37
+1995,Port Klang,Malaysia,Asia,0.48,0.43
+1995,Dammam,Saudi Arabia,Middle East,0.84,1.01
+1995,King Abdullah,Saudi Arabia,Middle East,0,0
+1995,Kobe,Japan,Asia,3.61,3.37
+1995,Laem Chabang,Thailand,Asia,6.41,6.41
+1995,Le Havre,France,Northern Europe,1.32,1.34
+1995,Lianyungang,China,Asia,6.45,6.48
+1995,Lome,Togo,Africa,0.38,0.38
+1995,Los Angeles,USA,North America,0.99,0.99
+1995,Manila,Philippines,Asia,1.66,1.41
+1995,Manzanillo,Mexico,North America,1.77,1.74
+1995,Jawaharlal Nehru,India,Asia,1.98,1.41
+1995,Mundra,India,Asia,3.44,3.44
+1995,Nagoya,Japan,Asia,4.59,4.5
+1995,Ningbo-Zhoushan,China,Asia,12.72,12.72
+1995,Osaka,Japan,Asia,1.77,1.7
+1995,Piraeus,Greece,Mediterranean,0.75,0.75
+1995,Qingdao,China,Asia,5.64,5.7
+1995,Qinzhou,China,Asia,1.3,1.3
+1995,Quanzhou,China,Asia,0.77,0.71
+1995,Rizhao,China,Asia,2.67,2.67
+1995,Rotterdam,Netherlands,Northern Europe,12.86,12.86
+1995,Said,Egypt,Middle East,0,0
+1995,Salalah,Oman,Middle East,1.11,1.4
+1995,Shanghai,China,Asia,25.88,25.23
+1995,Shenzhen,China,Asia,7.96,7.96
+1995,Singapore,Singapore,Asia,17.41,17.41
+1995,Sydney,Australia,Oceania,0.86,0.86
+1995,Taichung,Taiwan,Asia,17.63,17.63
+1995,Taicang,China,Asia,7.99,7.99
+1995,Tianjin,China,Asia,19.55,19.4
+1995,Tangshan,China,Asia,32.19,32.92
+1995,Tanger Med,Morocco,Mediterranean,0.17,0.17
+1995,Tokyo,Japan,Asia,7.68,7.68
+1995,Tanjung Priok,Indonesia,Asia,0.59,0.52
+1995,Tanjung Pelepas,Malaysia,Asia,1.9,1.9
+1995,Tanjung Perak,Indonesia,Asia,2.81,2.25
+1995,Valencia,Spain,Mediterranean,1.45,1.56
+1995,Xiamen,China,Asia,0.48,0.48
+1995,Yingkou,China,Asia,9.54,9.45
+1995,Yantai,China,Asia,0.45,0.49
+1995,Yokohama,Japan,Asia,1.34,1.15
+1995,Zhuhai,China,Asia,1.6,1.6
+1996,Abu Dhabi,UAE,Middle East,14.64,14.64
+1996,Alexandria,Egypt,Middle East,0.81,0.81
+1996,Algeciras,Spain,Mediterranean,0.91,0.96
+1996,Barcelona,Spain,Mediterranean,0,0
+1996,Busan,South Korea,Asia,7.59,7.29
+1996,Cartagena,Colombia,Central & South America,1.1,1.1
+1996,Colombo,Sri Lanka,Asia,0.56,0.45
+1996,Dalian,China,Asia,1.5,1.59
+1996,Dubai,UAE,Middle East,1.45,1.39
+1996,Durban,South Africa,Africa,0.52,0.52
+1996,Felixstowe,UK,Northern Europe,3.72,3.68
+1996,Genoa,Italy,Mediterranean,0,0
+1996,Guangzhou,China,Asia,15.74,15.74
+1996,Yeosu Gwangyang,South Korea,Asia,0.56,0.51
+1996,Hai Phong,Vietnam,Asia,3.99,3.99
+1996,Haikou,China,Asia,2.75,2.6
+1996,Hong Kong,China,Asia,1.53,1.53
+1996,Incheon,South Korea,Asia,2.89,2.42
+1996,Jeddah,Saudi Arabia,Middle East,3.43,3.44
+1996,Jiaxing,China,Asia,5.57,5.57
+1996,Jinzhou,China,Asia,0.4,0.37
+1996,Kaohsiung,Taiwan,Asia,10.92,10.92
+1996,Karachi,Pakistan,Asia,4.67,4.37
+1996,Port Klang,Malaysia,Asia,0.05,0.39
+1996,Dammam,Saudi Arabia,Middle East,0.93,1.03
+1996,King Abdullah,Saudi Arabia,Middle East,0,0
+1996,Kobe,Japan,Asia,3.97,3.61
+1996,Laem Chabang,Thailand,Asia,6.48,6.48
+1996,Le Havre,France,Northern Europe,1.6,1.54
+1996,Lianyungang,China,Asia,6.48,6.79
+1996,Lome,Togo,Africa,0.41,0.41
+1996,Los Angeles,USA,North America,1.15,1.15
+1996,Manila,Philippines,Asia,1.41,1.41
+1996,Manzanillo,Mexico,North America,1.74,1.74
+1996,Jawaharlal Nehru,India,Asia,1.55,1.55
+1996,Mundra,India,Asia,3.49,3.49
+1996,Nagoya,Japan,Asia,4.59,4.59
+1996,Ningbo-Zhoushan,China,Asia,12.79,12.79
+1996,Osaka,Japan,Asia,1.7,1.77
+1996,Piraeus,Greece,Mediterranean,0.78,0.78
+1996,Qingdao,China,Asia,5.79,5.79
+1996,Qinzhou,China,Asia,1.74,0
+1996,Quanzhou,China,Asia,0.71,0.71
+1996,Rizhao,China,Asia,2.68,2.68
+1996,Rotterdam,Netherlands,Northern Europe,12.87,12.87
+1996,Said,Egypt,Middle East,0,0
+1996,Salalah,Oman,Middle East,1.99,1.47
+1996,Shanghai,China,Asia,25.49,25.49
+1996,Shenzhen,China,Asia,8.37,8.37
+1996,Singapore,Singapore,Asia,17.6,17.6
+1996,Sydney,Australia,Oceania,0.85,0.89
+1996,Taichung,Taiwan,Asia,17.87,17.64
+1996,Taicang,China,Asia,8.98,8.22
+1996,Tianjin,China,Asia,19.4,19.55
+1996,Tangshan,China,Asia,33.86,33.86
+1996,Tanger Med,Morocco,Mediterranean,0.12,0.24
+1996,Tokyo,Japan,Asia,7.78,7.78
+1996,Tanjung Priok,Indonesia,Asia,0.62,0.55
+1996,Tanjung Pelepas,Malaysia,Asia,1.95,1.95
+1996,Tanjung Perak,Indonesia,Asia,2.55,2.51
+1996,Valencia,Spain,Mediterranean,1.87,1.67
+1996,Xiamen,China,Asia,0.51,0.51
+1996,Yingkou,China,Asia,9.45,9.53
+1996,Yantai,China,Asia,0.49,0.53
+1996,Yokohama,Japan,Asia,1.15,1.15
+1996,Zhuhai,China,Asia,1.65,1.65
+1997,Abu Dhabi,UAE,Middle East,14.73,14.73
+1997,Alexandria,Egypt,Middle East,0.84,0.84
+1997,Algeciras,Spain,Mediterranean,0.97,0.97
+1997,Barcelona,Spain,Mediterranean,0.75,0.63
+1997,Busan,South Korea,Asia,7.12,7.31
+1997,Cartagena,Colombia,Central & South America,1.12,1.1
+1997,Colombo,Sri Lanka,Asia,0.69,0.46
+1997,Dalian,China,Asia,2.89,2.78
+1997,Dubai,UAE,Middle East,1.45,1.39
+1997,Durban,South Africa,Africa,0.52,0.52
+1997,Felixstowe,UK,Northern Europe,3.73,3.63
+1997,Genoa,Italy,Mediterranean,0,0
+1997,Guangzhou,China,Asia,16.82,16.82
+1997,Yeosu Gwangyang,South Korea,Asia,0.64,0.56
+1997,Hai Phong,Vietnam,Asia,4.45,4.45
+1997,Haikou,China,Asia,2.89,2.6
+1997,Hong Kong,China,Asia,1.54,1.54
+1997,Incheon,South Korea,Asia,2.24,2.6
+1997,Jeddah,Saudi Arabia,Middle East,3.67,3.67
+1997,Jiaxing,China,Asia,5.65,5.65
+1997,Jinzhou,China,Asia,0,0.31
+1997,Kaohsiung,Taiwan,Asia,11.11,11.11
+1997,Karachi,Pakistan,Asia,4.28,4.37
+1997,Port Klang,Malaysia,Asia,0.47,0.39
+1997,Dammam,Saudi Arabia,Middle East,0.8,1.06
+1997,King Abdullah,Saudi Arabia,Middle East,0,0
+1997,Kobe,Japan,Asia,4.22,3.93
+1997,Laem Chabang,Thailand,Asia,6.51,6.51
+1997,Le Havre,France,Northern Europe,1.34,1.57
+1997,Lianyungang,China,Asia,11.74,11.1
+1997,Lome,Togo,Africa,0.42,0.42
+1997,Los Angeles,USA,North America,1.38,1.25
+1997,Manila,Philippines,Asia,1.21,1.41
+1997,Manzanillo,Mexico,North America,1.81,1.74
+1997,Jawaharlal Nehru,India,Asia,1.32,1.61
+1997,Mundra,India,Asia,3.87,3.87
+1997,Nagoya,Japan,Asia,4.29,4.59
+1997,Ningbo-Zhoushan,China,Asia,13.16,13.16
+1997,Osaka,Japan,Asia,1.88,1.83
+1997,Piraeus,Greece,Mediterranean,0.81,0.81
+1997,Qingdao,China,Asia,7.57,6.13
+1997,Qinzhou,China,Asia,0,1.08
+1997,Quanzhou,China,Asia,0.78,0.76
+1997,Rizhao,China,Asia,3.36,3.11
+1997,Rotterdam,Netherlands,Northern Europe,13.76,13.17
+1997,Said,Egypt,Middle East,0,0
+1997,Salalah,Oman,Middle East,1.81,1.52
+1997,Shanghai,China,Asia,25.23,25.88
+1997,Shenzhen,China,Asia,8.52,8.52
+1997,Singapore,Singapore,Asia,17.65,17.65
+1997,Sydney,Australia,Oceania,0.96,0.9
+1997,Taichung,Taiwan,Asia,17.64,17.85
+1997,Taicang,China,Asia,8.98,8.41
+1997,Tianjin,China,Asia,19.59,19.59
+1997,Tangshan,China,Asia,35.34,35.34
+1997,Tanger Med,Morocco,Mediterranean,0.12,0.24
+1997,Tokyo,Japan,Asia,7.9,7.9
+1997,Tanjung Priok,Indonesia,Asia,0.51,0.54
+1997,Tanjung Pelepas,Malaysia,Asia,1.96,1.96
+1997,Tanjung Perak,Indonesia,Asia,2.73,2.55
+1997,Valencia,Spain,Mediterranean,1.19,1.87
+1997,Xiamen,China,Asia,0.55,0.55
+1997,Yingkou,China,Asia,9.71,9.53
+1997,Yantai,China,Asia,0.92,0.92
+1997,Yokohama,Japan,Asia,1.11,1.18
+1997,Zhuhai,China,Asia,1.73,1.73
+1998,Abu Dhabi,UAE,Middle East,17.29,17.29
+1998,Alexandria,Egypt,Middle East,0.99,0.84
+1998,Algeciras,Spain,Mediterranean,0.98,0.98
+1998,Barcelona,Spain,Mediterranean,0.78,0.75
+1998,Busan,South Korea,Asia,7.4,7.4
+1998,Cartagena,Colombia,Central & South America,1.28,1.11
+1998,Colombo,Sri Lanka,Asia,0.78,0.46
+1998,Dalian,China,Asia,2.78,2.89
+1998,Dubai,UAE,Middle East,1.58,1.39
+1998,Durban,South Africa,Africa,0.58,0.57
+1998,Felixstowe,UK,Northern Europe,3.75,3.63
+1998,Genoa,Italy,Mediterranean,0,0
+1998,Guangzhou,China,Asia,17.92,17.92
+1998,Yeosu Gwangyang,South Korea,Asia,0.57,0.57
+1998,Hai Phong,Vietnam,Asia,4.52,4.52
+1998,Haikou,China,Asia,2.67,2.6
+1998,Hong Kong,China,Asia,1.59,1.59
+1998,Incheon,South Korea,Asia,2.76,2.76
+1998,Jeddah,Saudi Arabia,Middle East,4.14,3.76
+1998,Jiaxing,China,Asia,5.65,5.65
+1998,Jinzhou,China,Asia,0,0.31
+1998,Kaohsiung,Taiwan,Asia,11.17,11.17
+1998,Karachi,Pakistan,Asia,4.76,4.67
+1998,Port Klang,Malaysia,Asia,0.22,0.47
+1998,Dammam,Saudi Arabia,Middle East,1.26,1.15
+1998,King Abdullah,Saudi Arabia,Middle East,2.18,2.06
+1998,Kobe,Japan,Asia,3.37,3.97
+1998,Laem Chabang,Thailand,Asia,6.55,6.55
+1998,Le Havre,France,Northern Europe,1.32,1.6
+1998,Lianyungang,China,Asia,11.28,11.15
+1998,Lome,Togo,Africa,0.43,0.42
+1998,Los Angeles,USA,North America,1.25,1.38
+1998,Manila,Philippines,Asia,1.03,1.41
+1998,Manzanillo,Mexico,North America,1.58,1.74
+1998,Jawaharlal Nehru,India,Asia,1.61,1.64
+1998,Mundra,India,Asia,4.52,4.52
+1998,Nagoya,Japan,Asia,5.57,5.1
+1998,Ningbo-Zhoushan,China,Asia,14.48,14.48
+1998,Osaka,Japan,Asia,1.83,1.88
+1998,Piraeus,Greece,Mediterranean,0.84,0.84
+1998,Qingdao,China,Asia,5.7,6.3
+1998,Qinzhou,China,Asia,0,1.08
+1998,Quanzhou,China,Asia,0.76,0.76
+1998,Rizhao,China,Asia,3.11,3.16
+1998,Rotterdam,Netherlands,Northern Europe,13.56,13.33
+1998,Said,Egypt,Middle East,1.9,1.48
+1998,Salalah,Oman,Middle East,1.52,1.52
+1998,Shanghai,China,Asia,26.76,26.33
+1998,Shenzhen,China,Asia,8.62,8.62
+1998,Singapore,Singapore,Asia,17.67,17.67
+1998,Sydney,Australia,Oceania,0.9,0.94
+1998,Taichung,Taiwan,Asia,17.85,17.87
+1998,Taicang,China,Asia,8.22,8.98
+1998,Tianjin,China,Asia,21.93,21.25
+1998,Tangshan,China,Asia,35.47,35.47
+1998,Tanger Med,Morocco,Mediterranean,0.13,0.24
+1998,Tokyo,Japan,Asia,7.95,7.95
+1998,Tanjung Priok,Indonesia,Asia,0.44,0.54
+1998,Tanjung Pelepas,Malaysia,Asia,1.98,1.98
+1998,Tanjung Perak,Indonesia,Asia,2.51,2.59
+1998,Valencia,Spain,Mediterranean,1.45,1.87
+1998,Xiamen,China,Asia,0.68,0.68
+1998,Yingkou,China,Asia,9.08,9.53
+1998,Yantai,China,Asia,1.02,1.02
+1998,Yokohama,Japan,Asia,1.92,1.34
+1998,Zhuhai,China,Asia,1.86,1.86
+1999,Abu Dhabi,UAE,Middle East,18.63,18.47
+1999,Alexandria,Egypt,Middle East,0.9,0.84
+1999,Algeciras,Spain,Mediterranean,1.04,1.04
+1999,Barcelona,Spain,Mediterranean,0.63,0.78
+1999,Busan,South Korea,Asia,7.29,7.59
+1999,Cartagena,Colombia,Central & South America,1.31,1.12
+1999,Colombo,Sri Lanka,Asia,0.45,0.48
+1999,Dalian,China,Asia,3.68,3.68
+1999,Dubai,UAE,Middle East,1.61,1.39
+1999,Durban,South Africa,Africa,0.57,0.58
+1999,Felixstowe,UK,Northern Europe,3.75,3.63
+1999,Genoa,Italy,Mediterranean,0.91,0.91
+1999,Guangzhou,China,Asia,19.46,19.46
+1999,Yeosu Gwangyang,South Korea,Asia,0.37,0.64
+1999,Hai Phong,Vietnam,Asia,6.92,5.15
+1999,Haikou,China,Asia,2.99,2.65
+1999,Hong Kong,China,Asia,1.71,1.71
+1999,Incheon,South Korea,Asia,2.34,2.89
+1999,Jeddah,Saudi Arabia,Middle East,3.76,3.94
+1999,Jiaxing,China,Asia,6.36,6.36
+1999,Jinzhou,China,Asia,0.31,0.31
+1999,Kaohsiung,Taiwan,Asia,11.28,11.28
+1999,Karachi,Pakistan,Asia,4.3,4.75
+1999,Port Klang,Malaysia,Asia,0.32,0.48
+1999,Dammam,Saudi Arabia,Middle East,1.29,1.15
+1999,King Abdullah,Saudi Arabia,Middle East,2.06,2.06
+1999,Kobe,Japan,Asia,3.93,4.13
+1999,Laem Chabang,Thailand,Asia,6.58,6.58
+1999,Le Havre,France,Northern Europe,1.57,1.63
+1999,Lianyungang,China,Asia,11.15,11.25
+1999,Lome,Togo,Africa,0.42,0.43
+1999,Los Angeles,USA,North America,1.52,1.52
+1999,Manila,Philippines,Asia,1.79,1.66
+1999,Manzanillo,Mexico,North America,1.91,1.76
+1999,Jawaharlal Nehru,India,Asia,1.41,1.64
+1999,Mundra,India,Asia,4.65,4.65
+1999,Nagoya,Japan,Asia,5.72,5.37
+1999,Ningbo-Zhoushan,China,Asia,14.96,14.96
+1999,Osaka,Japan,Asia,1.99,1.99
+1999,Piraeus,Greece,Mediterranean,0.85,0.85
+1999,Qingdao,China,Asia,6.3,7.57
+1999,Qinzhou,China,Asia,1.08,1.08
+1999,Quanzhou,China,Asia,0.7,0.76
+1999,Rizhao,China,Asia,3.76,3.36
+1999,Rotterdam,Netherlands,Northern Europe,13.33,13.34
+1999,Said,Egypt,Middle East,1.68,1.68
+1999,Salalah,Oman,Middle East,1.58,1.58
+1999,Shanghai,China,Asia,26.33,26.76
+1999,Shenzhen,China,Asia,9.96,9.96
+1999,Singapore,Singapore,Asia,18.94,18.94
+1999,Sydney,Australia,Oceania,0.94,0.95
+1999,Taichung,Taiwan,Asia,18.82,18.24
+1999,Taicang,China,Asia,8.41,8.98
+1999,Tianjin,China,Asia,21.25,21.93
+1999,Tangshan,China,Asia,36.8,36.15
+1999,Tanger Med,Morocco,Mediterranean,0.15,0.24
+1999,Tokyo,Japan,Asia,7.99,7.99
+1999,Tanjung Priok,Indonesia,Asia,0.45,0.54
+1999,Tanjung Pelepas,Malaysia,Asia,1.98,1.98
+1999,Tanjung Perak,Indonesia,Asia,2.25,2.59
+1999,Valencia,Spain,Mediterranean,1.97,1.97
+1999,Xiamen,China,Asia,1.31,1.31
+1999,Yingkou,China,Asia,9.36,9.54
+1999,Yantai,China,Asia,1.13,1.13
+1999,Yokohama,Japan,Asia,1.15,1.52
+1999,Zhuhai,China,Asia,1.95,1.95
+2000,Abu Dhabi,UAE,Middle East,18.47,18.59
+2000,Alexandria,Egypt,Middle East,0.64,0.88
+2000,Algeciras,Spain,Mediterranean,1.25,1.25
+2000,Barcelona,Spain,Mediterranean,0.83,0.83
+2000,Busan,South Korea,Asia,8.59,8.59
+2000,Cartagena,Colombia,Central & South America,1.16,1.16
+2000,Colombo,Sri Lanka,Asia,0.43,0.48
+2000,Dalian,China,Asia,4.41,4.41
+2000,Dubai,UAE,Middle East,1.33,1.33
+2000,Durban,South Africa,Africa,0.61,0.61
+2000,Felixstowe,UK,Northern Europe,3.75,3.61
+2000,Genoa,Italy,Mediterranean,1.03,1.03
+2000,Guangzhou,China,Asia,19.53,19.53
+2000,Yeosu Gwangyang,South Korea,Asia,1.15,1.01
+2000,Hai Phong,Vietnam,Asia,5.15,5.33
+2000,Haikou,China,Asia,2.56,2.65
+2000,Hong Kong,China,Asia,1.91,1.91
+2000,Incheon,South Korea,Asia,3.02,3.02
+2000,Jeddah,Saudi Arabia,Middle East,4.41,4.08
+2000,Jiaxing,China,Asia,6.47,6.36
+2000,Jinzhou,China,Asia,0.39,0.39
+2000,Kaohsiung,Taiwan,Asia,11.34,11.34
+2000,Karachi,Pakistan,Asia,4.92,4.67
+2000,Port Klang,Malaysia,Asia,0.51,0.48
+2000,Dammam,Saudi Arabia,Middle East,1.3,1.17
+2000,King Abdullah,Saudi Arabia,Middle East,2.22,2.06
+2000,Kobe,Japan,Asia,4.31,4.22
+2000,Laem Chabang,Thailand,Asia,7.22,7.22
+2000,Le Havre,France,Northern Europe,1.82,1.7
+2000,Lianyungang,China,Asia,11.1,11.28
+2000,Lome,Togo,Africa,0.48,0.47
+2000,Los Angeles,USA,North America,1.75,1.75
+2000,Manila,Philippines,Asia,1.27,1.66
+2000,Manzanillo,Mexico,North America,1.76,1.76
+2000,Jawaharlal Nehru,India,Asia,1.79,1.79
+2000,Mundra,India,Asia,4.68,4.68
+2000,Nagoya,Japan,Asia,5.54,5.54
+2000,Ningbo-Zhoushan,China,Asia,15.19,15.19
+2000,Osaka,Japan,Asia,2.24,2.24
+2000,Piraeus,Greece,Mediterranean,0.88,0.88
+2000,Qingdao,China,Asia,8.94,8.94
+2000,Qinzhou,China,Asia,2.03,2.03
+2000,Quanzhou,China,Asia,0.78,0.74
+2000,Rizhao,China,Asia,3.16,3.76
+2000,Rotterdam,Netherlands,Northern Europe,13.86,13.34
+2000,Said,Egypt,Middle East,1.83,1.68
+2000,Salalah,Oman,Middle East,1.4,1.52
+2000,Shanghai,China,Asia,36.64,36.3
+2000,Shenzhen,China,Asia,10.32,10.32
+2000,Singapore,Singapore,Asia,27.18,27.18
+2000,Sydney,Australia,Oceania,0.95,0.95
+2000,Taichung,Taiwan,Asia,18.95,18.35
+2000,Taicang,China,Asia,10.09,10.09
+2000,Tianjin,China,Asia,25.43,25.1
+2000,Tangshan,China,Asia,36.41,36.41
+2000,Tanger Med,Morocco,Mediterranean,0.24,0.24
+2000,Tokyo,Japan,Asia,8.14,8.14
+2000,Tanjung Priok,Indonesia,Asia,0.48,0.54
+2000,Tanjung Pelepas,Malaysia,Asia,1.98,1.98
+2000,Tanjung Perak,Indonesia,Asia,2.97,2.73
+2000,Valencia,Spain,Mediterranean,2.12,2.12
+2000,Xiamen,China,Asia,1.79,1.71
+2000,Yingkou,China,Asia,9.53,9.71
+2000,Yantai,China,Asia,1.28,1.28
+2000,Yokohama,Japan,Asia,1.65,1.57
+2000,Zhuhai,China,Asia,1.97,1.97
+2001,Abu Dhabi,UAE,Middle East,18.59,18.63
+2001,Alexandria,Egypt,Middle East,0.8,0.8
+2001,Algeciras,Spain,Mediterranean,1.33,1.26
+2001,Barcelona,Spain,Mediterranean,1.02,1.02
+2001,Busan,South Korea,Asia,9.3,9.3
+2001,Cartagena,Colombia,Central & South America,1.11,1.21
+2001,Colombo,Sri Lanka,Asia,0.46,0.48
+2001,Dalian,China,Asia,4.83,4.83
+2001,Dubai,UAE,Middle East,1.21,1.33
+2001,Durban,South Africa,Africa,0.66,0.66
+2001,Felixstowe,UK,Northern Europe,3.75,3.61
+2001,Genoa,Italy,Mediterranean,1.05,1.05
+2001,Guangzhou,China,Asia,19.57,19.57
+2001,Yeosu Gwangyang,South Korea,Asia,1.12,1.12
+2001,Hai Phong,Vietnam,Asia,5.7,5.7
+2001,Haikou,China,Asia,2.7,2.65
+2001,Hong Kong,China,Asia,2.01,2.01
+2001,Incheon,South Korea,Asia,3.62,3.39
+2001,Jeddah,Saudi Arabia,Middle East,4.35,4.08
+2001,Jiaxing,China,Asia,6.45,6.45
+2001,Jinzhou,China,Asia,0.45,0.39
+2001,Kaohsiung,Taiwan,Asia,11.42,11.42
+2001,Karachi,Pakistan,Asia,4.02,4.59
+2001,Port Klang,Malaysia,Asia,0.39,0.48
+2001,Dammam,Saudi Arabia,Middle East,1.21,1.2
+2001,King Abdullah,Saudi Arabia,Middle East,2.17,2.06
+2001,Kobe,Japan,Asia,4.13,4.31
+2001,Laem Chabang,Thailand,Asia,7.57,7.57
+2001,Le Havre,France,Northern Europe,2.07,1.82
+2001,Lianyungang,China,Asia,11.25,11.29
+2001,Lome,Togo,Africa,0.47,0.47
+2001,Los Angeles,USA,North America,1.83,1.83
+2001,Manila,Philippines,Asia,1.69,1.69
+2001,Manzanillo,Mexico,North America,1.64,1.74
+2001,Jawaharlal Nehru,India,Asia,1.64,1.79
+2001,Mundra,India,Asia,4.76,4.76
+2001,Nagoya,Japan,Asia,5.83,5.57
+2001,Ningbo-Zhoushan,China,Asia,15.29,15.29
+2001,Osaka,Japan,Asia,2.87,2.87
+2001,Piraeus,Greece,Mediterranean,0.91,0.91
+2001,Qingdao,China,Asia,10.16,10.16
+2001,Qinzhou,China,Asia,2.09,2.09
+2001,Quanzhou,China,Asia,0.71,0.74
+2001,Rizhao,China,Asia,3.95,3.95
+2001,Rotterdam,Netherlands,Northern Europe,13.17,13.56
+2001,Said,Egypt,Middle East,1.48,1.68
+2001,Salalah,Oman,Middle East,1.47,1.52
+2001,Shanghai,China,Asia,36.97,36.64
+2001,Shenzhen,China,Asia,11.24,11.24
+2001,Singapore,Singapore,Asia,30.11,30.11
+2001,Sydney,Australia,Oceania,0.99,0.96
+2001,Taichung,Taiwan,Asia,18.36,18.36
+2001,Taicang,China,Asia,10.67,10.67
+2001,Tianjin,China,Asia,27.4,25.43
+2001,Tangshan,China,Asia,36.15,36.8
+2001,Tanger Med,Morocco,Mediterranean,0.24,0.24
+2001,Tokyo,Japan,Asia,8.31,8.31
+2001,Tanjung Priok,Indonesia,Asia,0.55,0.54
+2001,Tanjung Pelepas,Malaysia,Asia,1.99,1.99
+2001,Tanjung Perak,Indonesia,Asia,2.59,2.73
+2001,Valencia,Spain,Mediterranean,2.16,2.16
+2001,Xiamen,China,Asia,1.71,1.79
+2001,Yingkou,China,Asia,9.9,9.9
+2001,Yantai,China,Asia,1.66,1.64
+2001,Yokohama,Japan,Asia,1.94,1.65
+2001,Zhuhai,China,Asia,2.03,2.03
+2002,Abu Dhabi,UAE,Middle East,19.52,19.39
+2002,Alexandria,Egypt,Middle East,0.88,0.8
+2002,Algeciras,Spain,Mediterranean,1.35,1.3
+2002,Barcelona,Spain,Mediterranean,1.09,1.09
+2002,Busan,South Korea,Asia,10.51,10.51
+2002,Cartagena,Colombia,Central & South America,1.1,1.24
+2002,Colombo,Sri Lanka,Asia,0.48,0.48
+2002,Dalian,China,Asia,5.35,5.35
+2002,Dubai,UAE,Middle East,1.13,1.33
+2002,Durban,South Africa,Africa,0.69,0.69
+2002,Felixstowe,UK,Northern Europe,3.75,3.59
+2002,Genoa,Italy,Mediterranean,1.09,1.05
+2002,Guangzhou,China,Asia,21.89,21.61
+2002,Yeosu Gwangyang,South Korea,Asia,1.18,1.13
+2002,Hai Phong,Vietnam,Asia,5.33,5.33
+2002,Haikou,China,Asia,2.53,2.65
+2002,Hong Kong,China,Asia,2.75,2.75
+2002,Incheon,South Korea,Asia,3.39,3.62
+2002,Jeddah,Saudi Arabia,Middle East,4.08,4.12
+2002,Jiaxing,China,Asia,5.66,6.45
+2002,Jinzhou,China,Asia,0.44,0.44
+2002,Kaohsiung,Taiwan,Asia,11.44,11.44
+2002,Karachi,Pakistan,Asia,4.14,4.59
+2002,Port Klang,Malaysia,Asia,0.51,0.5
+2002,Dammam,Saudi Arabia,Middle East,1.15,1.21
+2002,King Abdullah,Saudi Arabia,Middle East,2.12,2.07
+2002,Kobe,Japan,Asia,5.24,5.24
+2002,Laem Chabang,Thailand,Asia,7.95,7.95
+2002,Le Havre,France,Northern Europe,1.7,2.07
+2002,Lianyungang,China,Asia,11.29,11.6
+2002,Lome,Togo,Africa,0.47,0.47
+2002,Los Angeles,USA,North America,2.2,2.09
+2002,Manila,Philippines,Asia,1.93,1.77
+2002,Manzanillo,Mexico,North America,1.61,1.76
+2002,Jawaharlal Nehru,India,Asia,2.1,1.86
+2002,Mundra,India,Asia,4.79,4.79
+2002,Nagoya,Japan,Asia,5.37,5.72
+2002,Ningbo-Zhoushan,China,Asia,15.6,15.6
+2002,Osaka,Japan,Asia,3.81,3.02
+2002,Piraeus,Greece,Mediterranean,0.93,0.93
+2002,Qingdao,China,Asia,11.92,11.32
+2002,Qinzhou,China,Asia,2.6,2.6
+2002,Quanzhou,China,Asia,0.78,0.76
+2002,Rizhao,China,Asia,4.02,4.02
+2002,Rotterdam,Netherlands,Northern Europe,13.34,13.63
+2002,Said,Egypt,Middle East,1.78,1.69
+2002,Salalah,Oman,Middle East,1.63,1.52
+2002,Shanghai,China,Asia,36.3,36.97
+2002,Shenzhen,China,Asia,13.06,13.06
+2002,Singapore,Singapore,Asia,36.49,36.24
+2002,Sydney,Australia,Oceania,0.99,0.99
+2002,Taichung,Taiwan,Asia,18.24,18.67
+2002,Taicang,China,Asia,14.08,11.68
+2002,Tianjin,China,Asia,25.52,25.52
+2002,Tangshan,China,Asia,37,37
+2002,Tanger Med,Morocco,Mediterranean,0.24,0.24
+2002,Tokyo,Japan,Asia,8.38,8.38
+2002,Tanjung Priok,Indonesia,Asia,0.54,0.54
+2002,Tanjung Pelepas,Malaysia,Asia,1.99,1.99
+2002,Tanjung Perak,Indonesia,Asia,2.84,2.73
+2002,Valencia,Spain,Mediterranean,2.46,2.29
+2002,Xiamen,China,Asia,1.85,1.85
+2002,Yingkou,China,Asia,10.97,10.97
+2002,Yantai,China,Asia,1.66,1.66
+2002,Yokohama,Japan,Asia,1.76,1.74
+2002,Zhuhai,China,Asia,1.98,1.98
+2003,Abu Dhabi,UAE,Middle East,19.39,19.52
+2003,Alexandria,Egypt,Middle East,0.02,0.8
+2003,Algeciras,Spain,Mediterranean,1.38,1.31
+2003,Barcelona,Spain,Mediterranean,1.5,1.35
+2003,Busan,South Korea,Asia,11.2,11.2
+2003,Cartagena,Colombia,Central & South America,1.21,1.26
+2003,Colombo,Sri Lanka,Asia,0.48,0.48
+2003,Dalian,China,Asia,6.3,6.3
+2003,Dubai,UAE,Middle East,1.01,1.33
+2003,Durban,South Africa,Africa,0.71,0.71
+2003,Felixstowe,UK,Northern Europe,3.75,3.59
+2003,Genoa,Italy,Mediterranean,1.11,1.05
+2003,Guangzhou,China,Asia,21.61,21.81
+2003,Yeosu Gwangyang,South Korea,Asia,1.01,1.15
+2003,Hai Phong,Vietnam,Asia,6.45,5.33
+2003,Haikou,China,Asia,2.27,2.65
+2003,Hong Kong,China,Asia,3.22,3.22
+2003,Incheon,South Korea,Asia,3.69,3.69
+2003,Jeddah,Saudi Arabia,Middle East,4.22,4.14
+2003,Jiaxing,China,Asia,6.9,6.35
+2003,Jinzhou,China,Asia,0.39,0.44
+2003,Kaohsiung,Taiwan,Asia,11.68,11.68
+2003,Karachi,Pakistan,Asia,4.92,4.62
+2003,Port Klang,Malaysia,Asia,0.61,0.5
+2003,Dammam,Saudi Arabia,Middle East,1.17,1.22
+2003,King Abdullah,Saudi Arabia,Middle East,2.09,2.07
+2003,Kobe,Japan,Asia,5.28,5.28
+2003,Laem Chabang,Thailand,Asia,8.18,8.18
+2003,Le Havre,France,Northern Europe,2.09,2.09
+2003,Lianyungang,China,Asia,11.6,11.6
+2003,Lome,Togo,Africa,0.47,0.47
+2003,Los Angeles,USA,North America,2.09,2.2
+2003,Manila,Philippines,Asia,1.66,1.79
+2003,Manzanillo,Mexico,North America,1.43,1.7
+2003,Jawaharlal Nehru,India,Asia,1.86,1.97
+2003,Mundra,India,Asia,4.8,4.8
+2003,Nagoya,Japan,Asia,5.1,5.83
+2003,Ningbo-Zhoushan,China,Asia,15.71,15.71
+2003,Osaka,Japan,Asia,3.02,3.21
+2003,Piraeus,Greece,Mediterranean,0.93,0.93
+2003,Qingdao,China,Asia,11.32,11.41
+2003,Qinzhou,China,Asia,3.21,3.21
+2003,Quanzhou,China,Asia,0.68,0.76
+2003,Rizhao,China,Asia,4.95,4.41
+2003,Rotterdam,Netherlands,Northern Europe,13.91,13.63
+2003,Said,Egypt,Middle East,1.79,1.71
+2003,Salalah,Oman,Middle East,1.26,1.52
+2003,Shanghai,China,Asia,39.94,39.94
+2003,Shenzhen,China,Asia,15.51,15.51
+2003,Singapore,Singapore,Asia,36.24,36.49
+2003,Sydney,Australia,Oceania,0.95,0.99
+2003,Taichung,Taiwan,Asia,18.35,18.8
+2003,Taicang,China,Asia,11.68,14.08
+2003,Tianjin,China,Asia,25.52,25.52
+2003,Tangshan,China,Asia,37.38,37.1
+2003,Tanger Med,Morocco,Mediterranean,0.24,0.24
+2003,Tokyo,Japan,Asia,8.5,8.5
+2003,Tanjung Priok,Indonesia,Asia,0.55,0.54
+2003,Tanjung Pelepas,Malaysia,Asia,2.61,2.61
+2003,Tanjung Perak,Indonesia,Asia,2.59,2.83
+2003,Valencia,Spain,Mediterranean,2.54,2.46
+2003,Xiamen,China,Asia,2.03,2.03
+2003,Yingkou,China,Asia,12.78,12.78
+2003,Yantai,China,Asia,1.64,1.66
+2003,Yokohama,Japan,Asia,1.52,1.76
+2003,Zhuhai,China,Asia,1.99,1.99
+2004,Abu Dhabi,UAE,Middle East,19.7,19.7
+2004,Alexandria,Egypt,Middle East,0.9,0.85
+2004,Algeciras,Spain,Mediterranean,1.26,1.33
+2004,Barcelona,Spain,Mediterranean,1.41,1.41
+2004,Busan,South Korea,Asia,14.1,14.1
+2004,Cartagena,Colombia,Central & South America,1.28,1.26
+2004,Colombo,Sri Lanka,Asia,0.48,0.48
+2004,Dalian,China,Asia,7.8,7.8
+2004,Dubai,UAE,Middle East,1.12,1.33
+2004,Durban,South Africa,Africa,0.75,0.75
+2004,Felixstowe,UK,Northern Europe,3.75,3.53
+2004,Genoa,Italy,Mediterranean,1.05,1.09
+2004,Guangzhou,China,Asia,22.7,21.89
+2004,Yeosu Gwangyang,South Korea,Asia,1.13,1.18
+2004,Hai Phong,Vietnam,Asia,4.84,4.84
+2004,Haikou,China,Asia,2.65,2.65
+2004,Hong Kong,China,Asia,3.28,3.28
+2004,Incheon,South Korea,Asia,4.47,4.47
+2004,Jeddah,Saudi Arabia,Middle East,3.94,4.13
+2004,Jiaxing,China,Asia,6.35,6.02
+2004,Jinzhou,China,Asia,0.46,0.44
+2004,Kaohsiung,Taiwan,Asia,11.71,11.71
+2004,Karachi,Pakistan,Asia,4.75,4.62
+2004,Port Klang,Malaysia,Asia,0.48,0.5
+2004,Dammam,Saudi Arabia,Middle East,1.12,1.22
+2004,King Abdullah,Saudi Arabia,Middle East,1.95,2.06
+2004,Kobe,Japan,Asia,6.69,6.53
+2004,Laem Chabang,Thailand,Asia,8.44,8.44
+2004,Le Havre,France,Northern Europe,2.52,2.17
+2004,Lianyungang,China,Asia,11.71,11.71
+2004,Lome,Togo,Africa,0.47,0.47
+2004,Los Angeles,USA,North America,2.51,2.48
+2004,Manila,Philippines,Asia,1.77,1.87
+2004,Manzanillo,Mexico,North America,1.82,1.7
+2004,Jawaharlal Nehru,India,Asia,1.97,2.1
+2004,Mundra,India,Asia,4.84,4.84
+2004,Nagoya,Japan,Asia,6.17,6.01
+2004,Ningbo-Zhoushan,China,Asia,15.97,15.97
+2004,Osaka,Japan,Asia,3.28,3.22
+2004,Piraeus,Greece,Mediterranean,0.94,0.94
+2004,Qingdao,China,Asia,11.41,11.92
+2004,Qinzhou,China,Asia,3.63,3.63
+2004,Quanzhou,China,Asia,0.74,0.78
+2004,Rizhao,China,Asia,4.41,4.95
+2004,Rotterdam,Netherlands,Northern Europe,13.63,13.86
+2004,Said,Egypt,Middle East,1.71,1.69
+2004,Salalah,Oman,Middle East,1.68,1.53
+2004,Shanghai,China,Asia,40.63,40.63
+2004,Shenzhen,China,Asia,17.67,17.67
+2004,Singapore,Singapore,Asia,37.09,37.09
+2004,Sydney,Australia,Oceania,1.04,1.01
+2004,Taichung,Taiwan,Asia,18.8,18.82
+2004,Taicang,China,Asia,14.95,14.95
+2004,Tianjin,China,Asia,25.1,27.4
+2004,Tangshan,China,Asia,37.65,37.38
+2004,Tanger Med,Morocco,Mediterranean,0.26,0.24
+2004,Tokyo,Japan,Asia,8.55,8.55
+2004,Tanjung Priok,Indonesia,Asia,0.54,0.55
+2004,Tanjung Pelepas,Malaysia,Asia,3.86,3.4
+2004,Tanjung Perak,Indonesia,Asia,3,2.84
+2004,Valencia,Spain,Mediterranean,2.29,2.54
+2004,Xiamen,China,Asia,2.34,2.34
+2004,Yingkou,China,Asia,13.47,13.47
+2004,Yantai,China,Asia,1.77,1.77
+2004,Yokohama,Japan,Asia,1.89,1.76
+2004,Zhuhai,China,Asia,1.97,1.97
+2005,Abu Dhabi,UAE,Middle East,19.89,19.86
+2005,Alexandria,Egypt,Middle East,0.79,0.84
+2005,Algeciras,Spain,Mediterranean,1.3,1.35
+2005,Barcelona,Spain,Mediterranean,1.35,1.5
+2005,Busan,South Korea,Asia,14.63,14.63
+2005,Cartagena,Colombia,Central & South America,1.27,1.24
+2005,Colombo,Sri Lanka,Asia,0.5,0.5
+2005,Dalian,China,Asia,8.99,8.99
+2005,Dubai,UAE,Middle East,1.04,1.33
+2005,Durban,South Africa,Africa,0.79,0.79
+2005,Felixstowe,UK,Northern Europe,3.76,3.52
+2005,Genoa,Italy,Mediterranean,1.16,1.11
+2005,Guangzhou,China,Asia,21.81,22.7
+2005,Yeosu Gwangyang,South Korea,Asia,1.56,1.56
+2005,Hai Phong,Vietnam,Asia,3.78,4.23
+2005,Haikou,China,Asia,2.58,2.65
+2005,Hong Kong,China,Asia,3.31,3.31
+2005,Incheon,South Korea,Asia,4.48,4.48
+2005,Jeddah,Saudi Arabia,Middle East,4.33,4.13
+2005,Jiaxing,China,Asia,6.02,6.02
+2005,Jinzhou,China,Asia,0.44,0.44
+2005,Kaohsiung,Taiwan,Asia,11.74,11.74
+2005,Karachi,Pakistan,Asia,4.33,4.62
+2005,Port Klang,Malaysia,Asia,0.53,0.51
+2005,Dammam,Saudi Arabia,Middle East,1.25,1.22
+2005,King Abdullah,Saudi Arabia,Middle East,2.04,2.04
+2005,Kobe,Japan,Asia,6.73,6.69
+2005,Laem Chabang,Thailand,Asia,8.48,8.48
+2005,Le Havre,France,Northern Europe,2.96,2.48
+2005,Lianyungang,China,Asia,11.88,11.88
+2005,Lome,Togo,Africa,0.44,0.47
+2005,Los Angeles,USA,North America,2.73,2.51
+2005,Manila,Philippines,Asia,1.97,1.9
+2005,Manzanillo,Mexico,North America,1.79,1.7
+2005,Jawaharlal Nehru,India,Asia,2.17,2.17
+2005,Mundra,India,Asia,4.87,4.87
+2005,Nagoya,Japan,Asia,6.59,6.17
+2005,Ningbo-Zhoushan,China,Asia,16.59,16.52
+2005,Osaka,Japan,Asia,3.22,3.22
+2005,Piraeus,Greece,Mediterranean,0.95,0.95
+2005,Qingdao,China,Asia,15.07,15.07
+2005,Qinzhou,China,Asia,3.86,3.86
+2005,Quanzhou,China,Asia,0.7,0.78
+2005,Rizhao,China,Asia,5.56,5.56
+2005,Rotterdam,Netherlands,Northern Europe,13.25,13.91
+2005,Said,Egypt,Middle East,1.67,1.69
+2005,Salalah,Oman,Middle East,1.42,1.53
+2005,Shanghai,China,Asia,40.73,40.73
+2005,Shenzhen,China,Asia,19.27,19.27
+2005,Singapore,Singapore,Asia,39.83,39.42
+2005,Sydney,Australia,Oceania,1.01,1.02
+2005,Taichung,Taiwan,Asia,18.67,18.95
+2005,Taicang,China,Asia,16.61,16.61
+2005,Tianjin,China,Asia,27.97,27.97
+2005,Tangshan,China,Asia,37.78,37.38
+2005,Tanger Med,Morocco,Mediterranean,0.33,0.26
+2005,Tokyo,Japan,Asia,8.58,8.58
+2005,Tanjung Priok,Indonesia,Asia,0.51,0.55
+2005,Tanjung Pelepas,Malaysia,Asia,3.68,3.46
+2005,Tanjung Perak,Indonesia,Asia,2.99,2.84
+2005,Valencia,Spain,Mediterranean,2.58,2.58
+2005,Xiamen,China,Asia,2.52,2.52
+2005,Yingkou,China,Asia,14.61,14.61
+2005,Yantai,China,Asia,2.01,1.89
+2005,Yokohama,Japan,Asia,1.57,1.87
+2005,Zhuhai,China,Asia,2.05,2.05
+2006,Abu Dhabi,UAE,Middle East,19.86,19.89
+2006,Alexandria,Egypt,Middle East,0.85,0.84
+2006,Algeciras,Spain,Mediterranean,1.31,1.38
+2006,Barcelona,Spain,Mediterranean,1.85,1.85
+2006,Busan,South Korea,Asia,14.89,14.89
+2006,Cartagena,Colombia,Central & South America,1.31,1.26
+2006,Colombo,Sri Lanka,Asia,0.5,0.5
+2006,Dalian,China,Asia,11.67,11.67
+2006,Dubai,UAE,Middle East,1.67,1.67
+2006,Durban,South Africa,Africa,0.82,0.82
+2006,Felixstowe,UK,Northern Europe,3.76,3.53
+2006,Genoa,Italy,Mediterranean,1.2,1.15
+2006,Guangzhou,China,Asia,23.43,23.43
+2006,Yeosu Gwangyang,South Korea,Asia,1.57,1.57
+2006,Hai Phong,Vietnam,Asia,4.23,4.23
+2006,Haikou,China,Asia,2.47,2.7
+2006,Hong Kong,China,Asia,3.39,3.38
+2006,Incheon,South Korea,Asia,5.37,5.37
+2006,Jeddah,Saudi Arabia,Middle East,3.85,4.13
+2006,Jiaxing,China,Asia,5.85,6.02
+2006,Jinzhou,China,Asia,0.44,0.46
+2006,Kaohsiung,Taiwan,Asia,12.41,12.3
+2006,Karachi,Pakistan,Asia,4.59,4.62
+2006,Port Klang,Malaysia,Asia,0.5,0.51
+2006,Dammam,Saudi Arabia,Middle East,1.2,1.22
+2006,King Abdullah,Saudi Arabia,Middle East,1.98,2.04
+2006,Kobe,Japan,Asia,6.53,6.69
+2006,Laem Chabang,Thailand,Asia,8.51,8.51
+2006,Le Havre,France,Northern Europe,2.75,2.52
+2006,Lianyungang,China,Asia,11.9,11.9
+2006,Lome,Togo,Africa,0.48,0.47
+2006,Los Angeles,USA,North America,2.48,2.56
+2006,Manila,Philippines,Asia,1.87,1.93
+2006,Manzanillo,Mexico,North America,1.64,1.64
+2006,Jawaharlal Nehru,India,Asia,2.21,2.21
+2006,Mundra,India,Asia,4.91,4.91
+2006,Nagoya,Japan,Asia,6.34,6.17
+2006,Ningbo-Zhoushan,China,Asia,16.52,16.59
+2006,Osaka,Japan,Asia,3.06,3.22
+2006,Piraeus,Greece,Mediterranean,0.95,0.95
+2006,Qingdao,China,Asia,16.83,16.83
+2006,Qinzhou,China,Asia,4.04,4.04
+2006,Quanzhou,China,Asia,0.84,0.81
+2006,Rizhao,China,Asia,6.28,5.65
+2006,Rotterdam,Netherlands,Northern Europe,14.04,14.04
+2006,Said,Egypt,Middle East,1.66,1.69
+2006,Salalah,Oman,Middle East,1.47,1.63
+2006,Shanghai,China,Asia,43.73,43.73
+2006,Shenzhen,China,Asia,22.94,22.94
+2006,Singapore,Singapore,Asia,39.88,39.42
+2006,Sydney,Australia,Oceania,1.07,1.04
+2006,Taichung,Taiwan,Asia,19.27,19.27
+2006,Taicang,China,Asia,17.58,17.58
+2006,Tianjin,China,Asia,48.49,48.49
+2006,Tangshan,China,Asia,37.1,37.43
+2006,Tanger Med,Morocco,Mediterranean,0.16,0.33
+2006,Tokyo,Japan,Asia,8.89,8.89
+2006,Tanjung Priok,Indonesia,Asia,0.56,0.55
+2006,Tanjung Pelepas,Malaysia,Asia,3.96,3.52
+2006,Tanjung Perak,Indonesia,Asia,2.87,2.83
+2006,Valencia,Spain,Mediterranean,2.75,2.75
+2006,Xiamen,China,Asia,3.09,2.76
+2006,Yingkou,China,Asia,16.64,16.64
+2006,Yantai,China,Asia,1.89,1.91
+2006,Yokohama,Japan,Asia,1.74,1.89
+2006,Zhuhai,China,Asia,2.12,2.12
+2007,Abu Dhabi,UAE,Middle East,19.98,19.98
+2007,Alexandria,Egypt,Middle East,0.84,0.79
+2007,Algeciras,Spain,Mediterranean,2.12,1.76
+2007,Barcelona,Spain,Mediterranean,2.87,2.87
+2007,Busan,South Korea,Asia,14.98,14.98
+2007,Cartagena,Colombia,Central & South America,1.24,1.27
+2007,Colombo,Sri Lanka,Asia,0.54,0.54
+2007,Dalian,China,Asia,12.87,12.87
+2007,Dubai,UAE,Middle East,2.91,2.91
+2007,Durban,South Africa,Africa,0.86,0.86
+2007,Felixstowe,UK,Northern Europe,3.76,3.53
+2007,Genoa,Italy,Mediterranean,1.28,1.16
+2007,Guangzhou,China,Asia,25.39,25.1
+2007,Yeosu Gwangyang,South Korea,Asia,1.91,1.83
+2007,Hai Phong,Vietnam,Asia,4.03,4.23
+2007,Haikou,China,Asia,2.71,2.71
+2007,Hong Kong,China,Asia,3.41,3.39
+2007,Incheon,South Korea,Asia,6.97,6.97
+2007,Jeddah,Saudi Arabia,Middle East,4.12,4.13
+2007,Jiaxing,China,Asia,5.66,6.02
+2007,Jinzhou,China,Asia,0.58,0.58
+2007,Kaohsiung,Taiwan,Asia,12.3,12.3
+2007,Karachi,Pakistan,Asia,4.62,4.62
+2007,Port Klang,Malaysia,Asia,0.54,0.53
+2007,Dammam,Saudi Arabia,Middle East,1.22,1.25
+2007,King Abdullah,Saudi Arabia,Middle East,2.07,2.04
+2007,Kobe,Japan,Asia,6.74,6.73
+2007,Laem Chabang,Thailand,Asia,8.55,8.55
+2007,Le Havre,France,Northern Europe,2.17,2.75
+2007,Lianyungang,China,Asia,11.95,11.95
+2007,Lome,Togo,Africa,0.49,0.47
+2007,Los Angeles,USA,North America,2.56,2.67
+2007,Manila,Philippines,Asia,1.98,1.97
+2007,Manzanillo,Mexico,North America,1.86,1.7
+2007,Jawaharlal Nehru,India,Asia,2.85,2.25
+2007,Mundra,India,Asia,4.94,4.94
+2007,Nagoya,Japan,Asia,6.84,6.26
+2007,Ningbo-Zhoushan,China,Asia,18.26,18.26
+2007,Osaka,Japan,Asia,3.25,3.25
+2007,Piraeus,Greece,Mediterranean,0.95,0.95
+2007,Qingdao,China,Asia,19.84,19.84
+2007,Qinzhou,China,Asia,4.21,4.08
+2007,Quanzhou,China,Asia,0.81,0.83
+2007,Rizhao,China,Asia,5.65,6.28
+2007,Rotterdam,Netherlands,Northern Europe,14.21,14.21
+2007,Said,Egypt,Middle East,1.69,1.69
+2007,Salalah,Oman,Middle East,1.53,1.68
+2007,Shanghai,China,Asia,43.81,43.81
+2007,Shenzhen,China,Asia,27.34,27.34
+2007,Singapore,Singapore,Asia,39.91,39.46
+2007,Sydney,Australia,Oceania,1.02,1.05
+2007,Taichung,Taiwan,Asia,20.78,20.1
+2007,Taicang,China,Asia,18.82,18.82
+2007,Tianjin,China,Asia,49.94,49.94
+2007,Tangshan,China,Asia,37.43,37.54
+2007,Tanger Med,Morocco,Mediterranean,0.86,0.75
+2007,Tokyo,Japan,Asia,9.07,9.07
+2007,Tanjung Priok,Indonesia,Asia,0.57,0.56
+2007,Tanjung Pelepas,Malaysia,Asia,3.4,3.55
+2007,Tanjung Perak,Indonesia,Asia,2.71,2.84
+2007,Valencia,Spain,Mediterranean,3.14,3.09
+2007,Xiamen,China,Asia,3.12,3.09
+2007,Yingkou,China,Asia,19.07,19.07
+2007,Yantai,China,Asia,1.91,2.01
+2007,Yokohama,Japan,Asia,1.87,1.89
+2007,Zhuhai,China,Asia,2.3,2.3
+2008,Abu Dhabi,UAE,Middle East,21.3,21.3
+2008,Alexandria,Egypt,Middle East,0.78,0.78
+2008,Algeciras,Spain,Mediterranean,1.76,2.12
+2008,Barcelona,Spain,Mediterranean,2.92,2.92
+2008,Busan,South Korea,Asia,16.04,16.04
+2008,Cartagena,Colombia,Central & South America,1.26,1.28
+2008,Colombo,Sri Lanka,Asia,0.54,0.54
+2008,Dalian,China,Asia,13.88,13.88
+2008,Dubai,UAE,Middle East,3.52,3.25
+2008,Durban,South Africa,Africa,0.91,0.91
+2008,Felixstowe,UK,Northern Europe,3.76,3.53
+2008,Genoa,Italy,Mediterranean,0.98,1.2
+2008,Guangzhou,China,Asia,25.1,25.11
+2008,Yeosu Gwangyang,South Korea,Asia,1.83,1.87
+2008,Hai Phong,Vietnam,Asia,5.04,4.73
+2008,Haikou,China,Asia,3.24,2.97
+2008,Hong Kong,China,Asia,3.41,3.41
+2008,Incheon,South Korea,Asia,8.05,7.78
+2008,Jeddah,Saudi Arabia,Middle East,4.91,4.22
+2008,Jiaxing,China,Asia,6.58,5.85
+2008,Jinzhou,China,Asia,1.15,0.99
+2008,Kaohsiung,Taiwan,Asia,12.3,12.41
+2008,Karachi,Pakistan,Asia,4.85,4.73
+2008,Port Klang,Malaysia,Asia,0.44,0.54
+2008,Dammam,Saudi Arabia,Middle East,1.45,1.44
+2008,King Abdullah,Saudi Arabia,Middle East,1.98,2.04
+2008,Kobe,Japan,Asia,6.8,6.74
+2008,Laem Chabang,Thailand,Asia,8.66,8.66
+2008,Le Havre,France,Northern Europe,2.79,2.79
+2008,Lianyungang,China,Asia,12.46,12.46
+2008,Lome,Togo,Africa,0.46,0.48
+2008,Los Angeles,USA,North America,2.83,2.73
+2008,Manila,Philippines,Asia,1.9,1.98
+2008,Manzanillo,Mexico,North America,1.7,1.71
+2008,Jawaharlal Nehru,India,Asia,2.36,2.36
+2008,Mundra,India,Asia,4.95,4.95
+2008,Nagoya,Japan,Asia,6.01,6.34
+2008,Ningbo-Zhoushan,China,Asia,18.95,18.95
+2008,Osaka,Japan,Asia,3.31,3.25
+2008,Piraeus,Greece,Mediterranean,0.95,0.95
+2008,Qingdao,China,Asia,21.51,21.51
+2008,Qinzhou,China,Asia,4.08,4.21
+2008,Quanzhou,China,Asia,0.83,0.84
+2008,Rizhao,China,Asia,7.15,7.12
+2008,Rotterdam,Netherlands,Northern Europe,14.21,14.21
+2008,Said,Egypt,Middle East,1.88,1.69
+2008,Salalah,Oman,Middle East,2.07,2.03
+2008,Shanghai,China,Asia,43.91,43.91
+2008,Shenzhen,China,Asia,29.97,29.97
+2008,Singapore,Singapore,Asia,39.42,39.83
+2008,Sydney,Australia,Oceania,1.05,1.07
+2008,Taichung,Taiwan,Asia,20.46,20.46
+2008,Taicang,China,Asia,19.64,19.64
+2008,Tianjin,China,Asia,63.96,63.96
+2008,Tangshan,China,Asia,37.91,37.65
+2008,Tanger Med,Morocco,Mediterranean,0.75,0.86
+2008,Tokyo,Japan,Asia,9.76,9.59
+2008,Tanjung Priok,Indonesia,Asia,0.55,0.56
+2008,Tanjung Pelepas,Malaysia,Asia,3.78,3.68
+2008,Tanjung Perak,Indonesia,Asia,2.83,2.87
+2008,Valencia,Spain,Mediterranean,3.09,3.14
+2008,Xiamen,China,Asia,3.7,3.12
+2008,Yingkou,China,Asia,21,21
+2008,Yantai,China,Asia,2.31,2.31
+2008,Yokohama,Japan,Asia,2.36,2.13
+2008,Zhuhai,China,Asia,2.68,2.68
+2009,Abu Dhabi,UAE,Middle East,22.71,22.41
+2009,Alexandria,Egypt,Middle East,0.69,0.69
+2009,Algeciras,Spain,Mediterranean,2.42,2.42
+2009,Barcelona,Spain,Mediterranean,3.48,3.48
+2009,Busan,South Korea,Asia,16.08,16.08
+2009,Cartagena,Colombia,Central & South America,1.3,1.3
+2009,Colombo,Sri Lanka,Asia,0.59,0.59
+2009,Dalian,China,Asia,14.88,14.88
+2009,Dubai,UAE,Middle East,3.25,3.45
+2009,Durban,South Africa,Africa,0.91,0.91
+2009,Felixstowe,UK,Northern Europe,3.81,3.53
+2009,Genoa,Italy,Mediterranean,1.25,1.24
+2009,Guangzhou,China,Asia,25.42,25.39
+2009,Yeosu Gwangyang,South Korea,Asia,1.87,1.91
+2009,Hai Phong,Vietnam,Asia,5.96,5.04
+2009,Haikou,China,Asia,2.97,3.21
+2009,Hong Kong,China,Asia,3.38,3.41
+2009,Incheon,South Korea,Asia,7.78,8.05
+2009,Jeddah,Saudi Arabia,Middle East,4.13,4.33
+2009,Jiaxing,China,Asia,7.89,6.58
+2009,Jinzhou,China,Asia,0.99,1.15
+2009,Kaohsiung,Taiwan,Asia,12.6,12.6
+2009,Karachi,Pakistan,Asia,4.73,4.73
+2009,Port Klang,Malaysia,Asia,0.42,0.54
+2009,Dammam,Saudi Arabia,Middle East,1.52,1.45
+2009,King Abdullah,Saudi Arabia,Middle East,1.97,2.04
+2009,Kobe,Japan,Asia,6.78,6.78
+2009,Laem Chabang,Thailand,Asia,8.69,8.69
+2009,Le Havre,France,Northern Europe,2.48,2.81
+2009,Lianyungang,China,Asia,24.92,24.92
+2009,Lome,Togo,Africa,0.47,0.49
+2009,Los Angeles,USA,North America,2.77,2.75
+2009,Manila,Philippines,Asia,2.01,2.01
+2009,Manzanillo,Mexico,North America,1.52,1.71
+2009,Jawaharlal Nehru,India,Asia,2.89,2.36
+2009,Mundra,India,Asia,6.28,6.28
+2009,Nagoya,Japan,Asia,6.82,6.52
+2009,Ningbo-Zhoushan,China,Asia,19.4,19.27
+2009,Osaka,Japan,Asia,3.24,3.31
+2009,Piraeus,Greece,Mediterranean,1.02,1.01
+2009,Qingdao,China,Asia,23.76,22.03
+2009,Qinzhou,China,Asia,8.09,8.09
+2009,Quanzhou,China,Asia,1.14,1.07
+2009,Rizhao,China,Asia,7.12,7.15
+2009,Rotterdam,Netherlands,Northern Europe,15.06,15.06
+2009,Said,Egypt,Middle East,1.54,1.69
+2009,Salalah,Oman,Middle East,2.87,2.07
+2009,Shanghai,China,Asia,43.95,43.95
+2009,Shenzhen,China,Asia,30.61,30.37
+2009,Singapore,Singapore,Asia,39.46,39.88
+2009,Sydney,Australia,Oceania,1.29,1.29
+2009,Taichung,Taiwan,Asia,20.48,20.48
+2009,Taicang,China,Asia,20.55,19.64
+2009,Tianjin,China,Asia,70.06,70.06
+2009,Tangshan,China,Asia,37.54,37.78
+2009,Tanger Med,Morocco,Mediterranean,1.13,1.13
+2009,Tokyo,Japan,Asia,9.95,9.63
+2009,Tanjung Priok,Indonesia,Asia,0.56,0.57
+2009,Tanjung Pelepas,Malaysia,Asia,3.46,3.69
+2009,Tanjung Perak,Indonesia,Asia,2.87,2.87
+2009,Valencia,Spain,Mediterranean,3.62,3.62
+2009,Xiamen,China,Asia,2.76,3.17
+2009,Yingkou,China,Asia,22.93,22.93
+2009,Yantai,China,Asia,2.97,2.86
+2009,Yokohama,Japan,Asia,2.7,2.36
+2009,Zhuhai,China,Asia,2.84,2.84
+2010,Abu Dhabi,UAE,Middle East,22.41,22.71
+2010,Alexandria,Egypt,Middle East,0.59,0.69
+2010,Algeciras,Spain,Mediterranean,2.43,2.43
+2010,Barcelona,Spain,Mediterranean,3.71,3.71
+2010,Busan,South Korea,Asia,16.33,16.33
+2010,Cartagena,Colombia,Central & South America,1.16,1.31
+2010,Colombo,Sri Lanka,Asia,0.74,0.74
+2010,Dalian,China,Asia,15.5,15.5
+2010,Dubai,UAE,Middle East,3.45,3.48
+2010,Durban,South Africa,Africa,0.91,0.91
+2010,Felixstowe,UK,Northern Europe,3.81,3.53
+2010,Genoa,Italy,Mediterranean,1.24,1.25
+2010,Guangzhou,China,Asia,25.11,25.42
+2010,Yeosu Gwangyang,South Korea,Asia,2.13,2.13
+2010,Hai Phong,Vietnam,Asia,4.73,5.96
+2010,Haikou,China,Asia,3.24,3.24
+2010,Hong Kong,China,Asia,3.41,3.41
+2010,Incheon,South Korea,Asia,8.07,8.07
+2010,Jeddah,Saudi Arabia,Middle East,4.11,4.63
+2010,Jiaxing,China,Asia,5.16,7.26
+2010,Jinzhou,China,Asia,1.24,1.24
+2010,Kaohsiung,Taiwan,Asia,12.81,12.81
+2010,Karachi,Pakistan,Asia,4.39,4.62
+2010,Port Klang,Malaysia,Asia,0.56,0.56
+2010,Dammam,Saudi Arabia,Middle East,1.64,1.48
+2010,King Abdullah,Saudi Arabia,Middle East,1.92,2.05
+2010,Kobe,Japan,Asia,7.01,6.8
+2010,Laem Chabang,Thailand,Asia,8.71,8.71
+2010,Le Havre,France,Northern Europe,3.1,2.96
+2010,Lianyungang,China,Asia,25.39,25.39
+2010,Lome,Togo,Africa,0.49,0.49
+2010,Los Angeles,USA,North America,2.75,2.76
+2010,Manila,Philippines,Asia,2.23,2.15
+2010,Manzanillo,Mexico,North America,1.73,1.71
+2010,Jawaharlal Nehru,India,Asia,2.25,2.36
+2010,Mundra,India,Asia,8.55,8.55
+2010,Nagoya,Japan,Asia,6.52,6.52
+2010,Ningbo-Zhoushan,China,Asia,19.27,19.32
+2010,Osaka,Japan,Asia,3.63,3.29
+2010,Piraeus,Greece,Mediterranean,1.1,1.02
+2010,Qingdao,China,Asia,22.59,22.59
+2010,Qinzhou,China,Asia,10.63,8.09
+2010,Quanzhou,China,Asia,1.49,1.14
+2010,Rizhao,China,Asia,7.78,7.78
+2010,Rotterdam,Netherlands,Northern Europe,16.63,16.63
+2010,Said,Egypt,Middle East,1.63,1.69
+2010,Salalah,Oman,Middle East,2.98,2.38
+2010,Shanghai,China,Asia,43.98,43.98
+2010,Shenzhen,China,Asia,30.37,30.61
+2010,Singapore,Singapore,Asia,39.93,39.91
+2010,Sydney,Australia,Oceania,1.7,1.56
+2010,Taichung,Taiwan,Asia,20.1,20.54
+2010,Taicang,China,Asia,19.76,19.76
+2010,Tianjin,China,Asia,81.69,81.69
+2010,Tangshan,China,Asia,37.07,37.91
+2010,Tanger Med,Morocco,Mediterranean,1.18,1.18
+2010,Tokyo,Japan,Asia,9.59,9.76
+2010,Tanjung Priok,Indonesia,Asia,0.57,0.57
+2010,Tanjung Pelepas,Malaysia,Asia,3.55,3.69
+2010,Tanjung Perak,Indonesia,Asia,2.26,2.87
+2010,Valencia,Spain,Mediterranean,3.63,3.63
+2010,Xiamen,China,Asia,3.17,3.7
+2010,Yingkou,China,Asia,26,26
+2010,Yantai,China,Asia,2.86,2.95
+2010,Yokohama,Japan,Asia,2.13,2.6
+2010,Zhuhai,China,Asia,2.86,2.86
+2011,Abu Dhabi,UAE,Middle East,23.12,23
+2011,Alexandria,Egypt,Middle East,0.68,0.69
+2011,Algeciras,Spain,Mediterranean,2.48,2.48
+2011,Barcelona,Spain,Mediterranean,3.82,3.82
+2011,Busan,South Korea,Asia,16.98,16.98
+2011,Cartagena,Colombia,Central & South America,1.36,1.33
+2011,Colombo,Sri Lanka,Asia,1.2,1.04
+2011,Dalian,China,Asia,16.23,16.23
+2011,Dubai,UAE,Middle East,3.48,3.51
+2011,Durban,South Africa,Africa,0.91,0.91
+2011,Felixstowe,UK,Northern Europe,3.81,3.59
+2011,Genoa,Italy,Mediterranean,1.15,1.28
+2011,Guangzhou,China,Asia,25.73,25.73
+2011,Yeosu Gwangyang,South Korea,Asia,2.59,2.59
+2011,Hai Phong,Vietnam,Asia,7.31,6.9
+2011,Haikou,China,Asia,3.21,3.24
+2011,Hong Kong,China,Asia,3.47,3.47
+2011,Incheon,South Korea,Asia,9.1,9.1
+2011,Jeddah,Saudi Arabia,Middle East,4.81,4.81
+2011,Jiaxing,China,Asia,8.67,7.89
+2011,Jinzhou,China,Asia,1.24,1.24
+2011,Kaohsiung,Taiwan,Asia,13.29,13.29
+2011,Karachi,Pakistan,Asia,4.83,4.73
+2011,Port Klang,Malaysia,Asia,0.67,0.67
+2011,Dammam,Saudi Arabia,Middle East,1.48,1.52
+2011,King Abdullah,Saudi Arabia,Middle East,2.47,2.07
+2011,Kobe,Japan,Asia,6.32,7.01
+2011,Laem Chabang,Thailand,Asia,8.74,8.74
+2011,Le Havre,France,Northern Europe,3.05,3.05
+2011,Lianyungang,China,Asia,27,27
+2011,Lome,Togo,Africa,0.57,0.57
+2011,Los Angeles,USA,North America,2.67,2.77
+2011,Manila,Philippines,Asia,2.3,2.19
+2011,Manzanillo,Mexico,North America,1.52,1.71
+2011,Jawaharlal Nehru,India,Asia,2.81,2.42
+2011,Mundra,India,Asia,11.25,11.25
+2011,Nagoya,Japan,Asia,5.5,6.52
+2011,Ningbo-Zhoushan,China,Asia,19.32,19.4
+2011,Osaka,Japan,Asia,3.29,3.63
+2011,Piraeus,Greece,Mediterranean,1.1,1.1
+2011,Qingdao,China,Asia,22.03,23.76
+2011,Qinzhou,China,Asia,14.21,10.63
+2011,Quanzhou,China,Asia,1.36,1.26
+2011,Rizhao,China,Asia,8.04,8.04
+2011,Rotterdam,Netherlands,Northern Europe,18.37,18.37
+2011,Said,Egypt,Middle East,1.69,1.69
+2011,Salalah,Oman,Middle East,2.44,2.4
+2011,Shanghai,China,Asia,45.5,45.5
+2011,Shenzhen,China,Asia,30.72,30.72
+2011,Singapore,Singapore,Asia,39.09,39.93
+2011,Sydney,Australia,Oceania,1.62,1.6
+2011,Taichung,Taiwan,Asia,20.54,20.67
+2011,Taicang,China,Asia,19.64,20.55
+2011,Tianjin,China,Asia,96.39,96.39
+2011,Tangshan,China,Asia,38.89,38.88
+2011,Tanger Med,Morocco,Mediterranean,1.34,1.32
+2011,Tokyo,Japan,Asia,9.63,9.88
+2011,Tanjung Priok,Indonesia,Asia,0.61,0.61
+2011,Tanjung Pelepas,Malaysia,Asia,3.52,3.78
+2011,Tanjung Perak,Indonesia,Asia,2.63,2.87
+2011,Valencia,Spain,Mediterranean,3.71,3.7
+2011,Xiamen,China,Asia,3.78,3.78
+2011,Yingkou,China,Asia,32.85,32.85
+2011,Yantai,China,Asia,3,2.97
+2011,Yokohama,Japan,Asia,2.72,2.66
+2011,Zhuhai,China,Asia,3.68,3.68
+2012,Abu Dhabi,UAE,Middle East,23.14,23.03
+2012,Alexandria,Egypt,Middle East,0.95,0.86
+2012,Algeciras,Spain,Mediterranean,2.66,2.63
+2012,Barcelona,Spain,Mediterranean,3.88,3.88
+2012,Busan,South Korea,Asia,19.14,19.14
+2012,Cartagena,Colombia,Central & South America,1.33,1.36
+2012,Colombo,Sri Lanka,Asia,1.04,1.2
+2012,Dalian,China,Asia,17.74,17.74
+2012,Dubai,UAE,Middle East,3.51,3.52
+2012,Durban,South Africa,Africa,0.91,0.91
+2012,Felixstowe,UK,Northern Europe,3.84,3.85
+2012,Genoa,Italy,Mediterranean,1.41,1.41
+2012,Guangzhou,China,Asia,26.43,26.43
+2012,Yeosu Gwangyang,South Korea,Asia,2.9,2.9
+2012,Hai Phong,Vietnam,Asia,6.9,7.31
+2012,Haikou,China,Asia,3.69,3.69
+2012,Hong Kong,China,Asia,3.53,3.53
+2012,Incheon,South Korea,Asia,10.21,10.21
+2012,Jeddah,Saudi Arabia,Middle East,4.63,4.91
+2012,Jiaxing,China,Asia,7.26,8.07
+2012,Jinzhou,China,Asia,1.33,1.33
+2012,Kaohsiung,Taiwan,Asia,13.5,13.5
+2012,Karachi,Pakistan,Asia,4.38,4.73
+2012,Port Klang,Malaysia,Asia,0.99,0.99
+2012,Dammam,Saudi Arabia,Middle East,1.44,1.6
+2012,King Abdullah,Saudi Arabia,Middle East,2.51,2.47
+2012,Kobe,Japan,Asia,7.27,7.27
+2012,Laem Chabang,Thailand,Asia,8.77,8.77
+2012,Le Havre,France,Northern Europe,2.81,3.09
+2012,Lianyungang,China,Asia,32.93,32.93
+2012,Lome,Togo,Africa,0.64,0.64
+2012,Los Angeles,USA,North America,2.76,2.83
+2012,Manila,Philippines,Asia,2.19,2.23
+2012,Manzanillo,Mexico,North America,1.8,1.72
+2012,Jawaharlal Nehru,India,Asia,2.42,2.81
+2012,Mundra,India,Asia,13.02,13.02
+2012,Nagoya,Japan,Asia,6.26,6.82
+2012,Ningbo-Zhoushan,China,Asia,21.59,21.59
+2012,Osaka,Japan,Asia,3.8,3.8
+2012,Piraeus,Greece,Mediterranean,1.01,1.1
+2012,Qingdao,China,Asia,25.73,25.73
+2012,Qinzhou,China,Asia,5.6,14.21
+2012,Quanzhou,China,Asia,1.51,1.36
+2012,Rizhao,China,Asia,9.31,9.31
+2012,Rotterdam,Netherlands,Northern Europe,20.5,20.5
+2012,Said,Egypt,Middle East,1.85,1.83
+2012,Salalah,Oman,Middle East,2.03,2.44
+2012,Shanghai,China,Asia,46.01,46.01
+2012,Shenzhen,China,Asia,33.13,33.13
+2012,Singapore,Singapore,Asia,42.82,42.82
+2012,Sydney,Australia,Oceania,1.6,1.62
+2012,Taichung,Taiwan,Asia,20.67,20.78
+2012,Taicang,China,Asia,21.84,21.84
+2012,Tianjin,China,Asia,131.06,131.06
+2012,Tangshan,China,Asia,38.88,38.89
+2012,Tanger Med,Morocco,Mediterranean,1.38,1.34
+2012,Tokyo,Japan,Asia,9.88,9.95
+2012,Tanjung Priok,Indonesia,Asia,0.66,0.66
+2012,Tanjung Pelepas,Malaysia,Asia,3.69,3.78
+2012,Tanjung Perak,Indonesia,Asia,3,3
+2012,Valencia,Spain,Mediterranean,3.78,3.71
+2012,Xiamen,China,Asia,3.87,3.8
+2012,Yingkou,China,Asia,41.47,41.47
+2012,Yantai,China,Asia,2.95,3
+2012,Yokohama,Japan,Asia,2.66,2.7
+2012,Zhuhai,China,Asia,4.04,4.04
+2013,Abu Dhabi,UAE,Middle East,23.03,23.12
+2013,Alexandria,Egypt,Middle East,0.86,0.86
+2013,Algeciras,Spain,Mediterranean,2.91,2.66
+2013,Barcelona,Spain,Mediterranean,3.93,3.88
+2013,Busan,South Korea,Asia,20.05,20.05
+2013,Cartagena,Colombia,Central & South America,1.5,1.42
+2013,Colombo,Sri Lanka,Asia,1.67,1.67
+2013,Dalian,China,Asia,18.65,18.4
+2013,Dubai,UAE,Middle East,3.94,3.71
+2013,Durban,South Africa,Africa,0.91,0.91
+2013,Felixstowe,UK,Northern Europe,4.03,3.88
+2013,Genoa,Italy,Mediterranean,1.46,1.41
+2013,Guangzhou,China,Asia,31.09,31.09
+2013,Yeosu Gwangyang,South Korea,Asia,3.37,3.04
+2013,Hai Phong,Vietnam,Asia,8.19,7.31
+2013,Haikou,China,Asia,4.19,4.19
+2013,Hong Kong,China,Asia,3.65,3.65
+2013,Incheon,South Korea,Asia,11.31,11.31
+2013,Jeddah,Saudi Arabia,Middle East,5.96,5.06
+2013,Jiaxing,China,Asia,9.11,8.67
+2013,Jinzhou,China,Asia,1.54,1.48
+2013,Kaohsiung,Taiwan,Asia,14.67,14.67
+2013,Karachi,Pakistan,Asia,4.86,4.73
+2013,Port Klang,Malaysia,Asia,1.39,1.22
+2013,Dammam,Saudi Arabia,Middle East,1.68,1.6
+2013,King Abdullah,Saudi Arabia,Middle East,2.05,2.51
+2013,Kobe,Japan,Asia,7.69,7.41
+2013,Laem Chabang,Thailand,Asia,8.81,8.81
+2013,Le Havre,France,Northern Europe,3.13,3.1
+2013,Lianyungang,China,Asia,34.44,34.39
+2013,Lome,Togo,Africa,0.87,0.64
+2013,Los Angeles,USA,North America,3.28,3.28
+2013,Manila,Philippines,Asia,2.33,2.28
+2013,Manzanillo,Mexico,North America,1.71,1.72
+2013,Jawaharlal Nehru,India,Asia,2.88,2.81
+2013,Mundra,India,Asia,13.81,13.81
+2013,Nagoya,Japan,Asia,6.52,6.82
+2013,Ningbo-Zhoushan,China,Asia,22.78,22.78
+2013,Osaka,Japan,Asia,3.96,3.8
+2013,Piraeus,Greece,Mediterranean,1.1,1.1
+2013,Qingdao,China,Asia,26.4,26.4
+2013,Qinzhou,China,Asia,16.09,15.44
+2013,Quanzhou,China,Asia,1.83,1.49
+2013,Rizhao,China,Asia,10.15,10.15
+2013,Rotterdam,Netherlands,Northern Europe,21.49,21.27
+2013,Said,Egypt,Middle East,1.84,1.83
+2013,Salalah,Oman,Middle East,2.4,2.51
+2013,Shanghai,China,Asia,46.81,46.81
+2013,Shenzhen,China,Asia,33.14,33.14
+2013,Singapore,Singapore,Asia,48.82,48.82
+2013,Sydney,Australia,Oceania,1.69,1.69
+2013,Taichung,Taiwan,Asia,21.69,21.69
+2013,Taicang,China,Asia,23.69,23.69
+2013,Tianjin,China,Asia,136.32,136.32
+2013,Tangshan,China,Asia,40.91,40.54
+2013,Tanger Med,Morocco,Mediterranean,1.32,1.38
+2013,Tokyo,Japan,Asia,11.18,11.18
+2013,Tanjung Priok,Indonesia,Asia,0.68,0.68
+2013,Tanjung Pelepas,Malaysia,Asia,4.36,4.18
+2013,Tanjung Perak,Indonesia,Asia,3.21,3.07
+2013,Valencia,Spain,Mediterranean,3.86,3.73
+2013,Xiamen,China,Asia,3.8,3.87
+2013,Yingkou,China,Asia,44.26,44.26
+2013,Yantai,China,Asia,3.42,3.24
+2013,Yokohama,Japan,Asia,2.6,2.72
+2013,Zhuhai,China,Asia,5.87,5.87
+2014,Abu Dhabi,UAE,Middle East,23,23.14
+2014,Alexandria,Egypt,Middle East,0.91,0.91
+2014,Algeciras,Spain,Mediterranean,2.69,2.69
+2014,Barcelona,Spain,Mediterranean,3.93,3.93
+2014,Busan,South Korea,Asia,20.58,20.32
+2014,Cartagena,Colombia,Central & South America,1.42,1.48
+2014,Colombo,Sri Lanka,Asia,1.83,1.68
+2014,Dalian,China,Asia,18.4,18.61
+2014,Dubai,UAE,Middle East,3.71,3.94
+2014,Durban,South Africa,Africa,0.93,0.93
+2014,Felixstowe,UK,Northern Europe,3.88,3.92
+2014,Genoa,Italy,Mediterranean,1.49,1.46
+2014,Guangzhou,China,Asia,31.47,31.47
+2014,Yeosu Gwangyang,South Korea,Asia,3.37,3.35
+2014,Hai Phong,Vietnam,Asia,8.15,8.15
+2014,Haikou,China,Asia,4.19,4.19
+2014,Hong Kong,China,Asia,3.71,3.71
+2014,Incheon,South Korea,Asia,12.62,12.62
+2014,Jeddah,Saudi Arabia,Middle East,5.38,5.38
+2014,Jiaxing,China,Asia,8.07,8.68
+2014,Jinzhou,China,Asia,1.48,1.48
+2014,Kaohsiung,Taiwan,Asia,14.68,14.68
+2014,Karachi,Pakistan,Asia,4.91,4.73
+2014,Port Klang,Malaysia,Asia,1.3,1.3
+2014,Dammam,Saudi Arabia,Middle East,1.66,1.63
+2014,King Abdullah,Saudi Arabia,Middle East,2.65,2.65
+2014,Kobe,Japan,Asia,7.41,7.58
+2014,Laem Chabang,Thailand,Asia,8.88,8.88
+2014,Le Havre,France,Northern Europe,3.25,3.1
+2014,Lianyungang,China,Asia,34.39,34.44
+2014,Lome,Togo,Africa,0.83,0.83
+2014,Los Angeles,USA,North America,3.34,3.31
+2014,Manila,Philippines,Asia,2.43,2.3
+2014,Manzanillo,Mexico,North America,1.67,1.73
+2014,Jawaharlal Nehru,India,Asia,2.34,2.88
+2014,Mundra,India,Asia,14.5,14.43
+2014,Nagoya,Japan,Asia,6.96,6.96
+2014,Ningbo-Zhoushan,China,Asia,23.62,23.62
+2014,Osaka,Japan,Asia,3.72,3.89
+2014,Piraeus,Greece,Mediterranean,1.17,1.12
+2014,Qingdao,China,Asia,27.59,27.59
+2014,Qinzhou,China,Asia,15.85,15.85
+2014,Quanzhou,China,Asia,1.07,1.51
+2014,Rizhao,China,Asia,11.84,11.84
+2014,Rotterdam,Netherlands,Northern Europe,21.7,21.47
+2014,Said,Egypt,Middle East,1.89,1.83
+2014,Salalah,Oman,Middle East,2.38,2.73
+2014,Shanghai,China,Asia,46.93,46.93
+2014,Shenzhen,China,Asia,33.63,33.63
+2014,Singapore,Singapore,Asia,49.98,49.89
+2014,Sydney,Australia,Oceania,1.56,1.7
+2014,Taichung,Taiwan,Asia,21.88,21.88
+2014,Taicang,China,Asia,24.15,24.15
+2014,Tianjin,China,Asia,165.21,165.21
+2014,Tangshan,China,Asia,40.54,40.91
+2014,Tanger Med,Morocco,Mediterranean,1.97,1.97
+2014,Tokyo,Japan,Asia,11.61,11.61
+2014,Tanjung Priok,Indonesia,Asia,0.7,0.7
+2014,Tanjung Pelepas,Malaysia,Asia,4.65,4.29
+2014,Tanjung Perak,Indonesia,Asia,3.25,3.21
+2014,Valencia,Spain,Mediterranean,3.7,3.74
+2014,Xiamen,China,Asia,4.36,4.36
+2014,Yingkou,China,Asia,45.07,45.07
+2014,Yantai,China,Asia,3.27,3.27
+2014,Yokohama,Japan,Asia,2.74,2.74
+2014,Zhuhai,China,Asia,5.83,5.83
+2015,Abu Dhabi,UAE,Middle East,23.28,23.28
+2015,Alexandria,Egypt,Middle East,0.26,0.91
+2015,Algeciras,Spain,Mediterranean,2.63,2.69
+2015,Barcelona,Spain,Mediterranean,4.01,3.93
+2015,Busan,South Korea,Asia,20.65,20.58
+2015,Cartagena,Colombia,Central & South America,1.48,1.5
+2015,Colombo,Sri Lanka,Asia,1.68,1.83
+2015,Dalian,China,Asia,18.78,18.65
+2015,Dubai,UAE,Middle East,4.07,4.07
+2015,Durban,South Africa,Africa,0.95,0.93
+2015,Felixstowe,UK,Northern Europe,3.85,3.96
+2015,Genoa,Italy,Mediterranean,1.41,1.48
+2015,Guangzhou,China,Asia,31.94,31.82
+2015,Yeosu Gwangyang,South Korea,Asia,3.04,3.37
+2015,Hai Phong,Vietnam,Asia,6.68,8.19
+2015,Haikou,China,Asia,5,5
+2015,Hong Kong,China,Asia,3.99,3.99
+2015,Incheon,South Korea,Asia,12.65,12.65
+2015,Jeddah,Saudi Arabia,Middle East,5.06,5.56
+2015,Jiaxing,China,Asia,8.68,9.11
+2015,Jinzhou,China,Asia,1.48,1.48
+2015,Kaohsiung,Taiwan,Asia,14.78,14.78
+2015,Karachi,Pakistan,Asia,4.14,4.73
+2015,Port Klang,Malaysia,Asia,1.22,1.39
+2015,Dammam,Saudi Arabia,Middle East,1.6,1.64
+2015,King Abdullah,Saudi Arabia,Middle East,3.56,3.53
+2015,Kobe,Japan,Asia,7.58,7.68
+2015,Laem Chabang,Thailand,Asia,8.91,8.91
+2015,Le Havre,France,Northern Europe,3.09,3.13
+2015,Lianyungang,China,Asia,35.77,35.77
+2015,Lome,Togo,Africa,0.19,0.87
+2015,Los Angeles,USA,North America,3.31,3.34
+2015,Manila,Philippines,Asia,2.15,2.33
+2015,Manzanillo,Mexico,North America,1.9,1.8
+2015,Jawaharlal Nehru,India,Asia,2.11,2.88
+2015,Mundra,India,Asia,14.43,14.5
+2015,Nagoya,Japan,Asia,7.05,7.05
+2015,Ningbo-Zhoushan,China,Asia,25.03,25.03
+2015,Osaka,Japan,Asia,3.89,3.89
+2015,Piraeus,Greece,Mediterranean,1.2,1.17
+2015,Qingdao,China,Asia,27.99,27.99
+2015,Qinzhou,China,Asia,15.44,16.09
+2015,Quanzhou,China,Asia,1.26,1.76
+2015,Rizhao,China,Asia,11.99,11.99
+2015,Rotterdam,Netherlands,Northern Europe,21.67,21.49
+2015,Said,Egypt,Middle East,1.47,1.83
+2015,Salalah,Oman,Middle East,2.78,2.73
+2015,Shanghai,China,Asia,47.71,47.71
+2015,Shenzhen,China,Asia,33.69,33.69
+2015,Singapore,Singapore,Asia,49.89,49.98
+2015,Sydney,Australia,Oceania,1.72,1.72
+2015,Taichung,Taiwan,Asia,22,22
+2015,Taicang,China,Asia,24.2,24.2
+2015,Tianjin,China,Asia,168.22,168.22
+2015,Tangshan,China,Asia,42.62,42.06
+2015,Tanger Med,Morocco,Mediterranean,1.98,1.98
+2015,Tokyo,Japan,Asia,11.85,11.85
+2015,Tanjung Priok,Indonesia,Asia,0.81,0.81
+2015,Tanjung Pelepas,Malaysia,Asia,4.81,4.36
+2015,Tanjung Perak,Indonesia,Asia,3.27,3.25
+2015,Valencia,Spain,Mediterranean,3.84,3.74
+2015,Xiamen,China,Asia,4.61,4.61
+2015,Yingkou,China,Asia,45.79,45.79
+2015,Yantai,China,Asia,3.24,3.32
+2015,Yokohama,Japan,Asia,2.94,2.79
+2015,Zhuhai,China,Asia,5.99,5.99
+2016,Abu Dhabi,UAE,Middle East,23.68,23.68
+2016,Alexandria,Egypt,Middle East,1.06,1.06
+2016,Algeciras,Spain,Mediterranean,2.75,2.74
+2016,Barcelona,Spain,Mediterranean,3.94,3.94
+2016,Busan,South Korea,Asia,20.32,20.65
+2016,Cartagena,Colombia,Central & South America,1.88,1.88
+2016,Colombo,Sri Lanka,Asia,2.47,2.47
+2016,Dalian,China,Asia,18.69,18.69
+2016,Dubai,UAE,Middle East,5.4,5.3
+2016,Durban,South Africa,Africa,0.93,0.95
+2016,Felixstowe,UK,Northern Europe,4.15,4.01
+2016,Genoa,Italy,Mediterranean,1.56,1.49
+2016,Guangzhou,China,Asia,31.82,31.85
+2016,Yeosu Gwangyang,South Korea,Asia,3.45,3.37
+2016,Hai Phong,Vietnam,Asia,10.52,10.52
+2016,Haikou,China,Asia,8.07,7.56
+2016,Hong Kong,China,Asia,4.12,4.1
+2016,Incheon,South Korea,Asia,13.81,13.81
+2016,Jeddah,Saudi Arabia,Middle East,5.56,5.62
+2016,Jiaxing,China,Asia,9.2,9.19
+2016,Jinzhou,China,Asia,1.56,1.48
+2016,Kaohsiung,Taiwan,Asia,14.8,14.8
+2016,Karachi,Pakistan,Asia,4.86,4.73
+2016,Port Klang,Malaysia,Asia,1.59,1.59
+2016,Dammam,Saudi Arabia,Middle East,1.7,1.66
+2016,King Abdullah,Saudi Arabia,Middle East,3.53,3.56
+2016,Kobe,Japan,Asia,7.68,7.69
+2016,Laem Chabang,Thailand,Asia,9.07,9.07
+2016,Le Havre,France,Northern Europe,3.13,3.13
+2016,Lianyungang,China,Asia,41.16,41.16
+2016,Lome,Togo,Africa,0.91,0.91
+2016,Los Angeles,USA,North America,3.57,3.38
+2016,Manila,Philippines,Asia,2.28,2.43
+2016,Manzanillo,Mexico,North America,1.72,1.87
+2016,Jawaharlal Nehru,India,Asia,3.3,3.3
+2016,Mundra,India,Asia,14.88,14.69
+2016,Nagoya,Japan,Asia,8,7.25
+2016,Ningbo-Zhoushan,China,Asia,25.96,25.96
+2016,Osaka,Japan,Asia,4.07,4.07
+2016,Piraeus,Greece,Mediterranean,1.24,1.2
+2016,Qingdao,China,Asia,29.14,29.12
+2016,Qinzhou,China,Asia,17.03,17.03
+2016,Quanzhou,China,Asia,1.76,1.83
+2016,Rizhao,China,Asia,15.79,15.79
+2016,Rotterdam,Netherlands,Northern Europe,21.47,21.67
+2016,Said,Egypt,Middle East,1.83,1.84
+2016,Salalah,Oman,Middle East,2.73,2.73
+2016,Shanghai,China,Asia,47.86,47.86
+2016,Shenzhen,China,Asia,33.71,33.71
+2016,Singapore,Singapore,Asia,53.23,53.15
+2016,Sydney,Australia,Oceania,1.8,1.74
+2016,Taichung,Taiwan,Asia,22.03,22.03
+2016,Taicang,China,Asia,25.73,25.73
+2016,Tianjin,China,Asia,168.29,168.29
+2016,Tangshan,China,Asia,42.06,42.25
+2016,Tanger Med,Morocco,Mediterranean,1.98,1.98
+2016,Tokyo,Japan,Asia,12.16,12.16
+2016,Tanjung Priok,Indonesia,Asia,1.42,1.42
+2016,Tanjung Pelepas,Malaysia,Asia,4.52,4.47
+2016,Tanjung Perak,Indonesia,Asia,3.07,3.27
+2016,Valencia,Spain,Mediterranean,3.74,3.78
+2016,Xiamen,China,Asia,4.68,4.66
+2016,Yingkou,China,Asia,48.34,48.34
+2016,Yantai,China,Asia,3.32,3.36
+2016,Yokohama,Japan,Asia,3.01,2.86
+2016,Zhuhai,China,Asia,6.05,6.05
+2017,Abu Dhabi,UAE,Middle East,23.8,23.76
+2017,Alexandria,Egypt,Middle East,1.26,1.26
+2017,Algeciras,Spain,Mediterranean,2.74,2.74
+2017,Barcelona,Spain,Mediterranean,3.97,3.97
+2017,Busan,South Korea,Asia,21.69,21.69
+2017,Cartagena,Colombia,Central & South America,1.98,1.92
+2017,Colombo,Sri Lanka,Asia,3.28,3.28
+2017,Dalian,China,Asia,18.61,18.78
+2017,Dubai,UAE,Middle East,5.49,5.32
+2017,Durban,South Africa,Africa,0.97,0.97
+2017,Felixstowe,UK,Northern Europe,3.96,4.01
+2017,Genoa,Italy,Mediterranean,1.58,1.56
+2017,Guangzhou,China,Asia,31.85,31.94
+2017,Yeosu Gwangyang,South Korea,Asia,3.45,3.45
+2017,Hai Phong,Vietnam,Asia,13.17,13.17
+2017,Haikou,China,Asia,7.56,8.07
+2017,Hong Kong,China,Asia,4.1,4.12
+2017,Incheon,South Korea,Asia,14.8,14.38
+2017,Jeddah,Saudi Arabia,Middle East,5.62,5.62
+2017,Jiaxing,China,Asia,9.19,9.19
+2017,Jinzhou,China,Asia,1.32,1.56
+2017,Kaohsiung,Taiwan,Asia,14.91,14.91
+2017,Karachi,Pakistan,Asia,4.14,4.73
+2017,Port Klang,Malaysia,Asia,1.76,1.59
+2017,Dammam,Saudi Arabia,Middle East,1.6,1.66
+2017,King Abdullah,Saudi Arabia,Middle East,3.69,3.69
+2017,Kobe,Japan,Asia,8.17,8.01
+2017,Laem Chabang,Thailand,Asia,9.73,9.73
+2017,Le Havre,France,Northern Europe,3.2,3.16
+2017,Lianyungang,China,Asia,41.51,41.51
+2017,Lome,Togo,Africa,0.95,0.95
+2017,Los Angeles,USA,North America,3.38,3.54
+2017,Manila,Philippines,Asia,2.48,2.48
+2017,Manzanillo,Mexico,North America,1.88,1.88
+2017,Jawaharlal Nehru,India,Asia,3.82,3.65
+2017,Mundra,India,Asia,14.89,14.88
+2017,Nagoya,Japan,Asia,7.25,7.48
+2017,Ningbo-Zhoushan,China,Asia,26.43,26.3
+2017,Osaka,Japan,Asia,4.33,4.27
+2017,Piraeus,Greece,Mediterranean,1.26,1.24
+2017,Qingdao,China,Asia,29.32,29.14
+2017,Qinzhou,China,Asia,17.93,17.93
+2017,Quanzhou,China,Asia,1.87,1.86
+2017,Rizhao,China,Asia,15.83,15.83
+2017,Rotterdam,Netherlands,Northern Europe,21.27,21.7
+2017,Said,Egypt,Middle East,1.85,1.83
+2017,Salalah,Oman,Middle East,2.51,2.75
+2017,Shanghai,China,Asia,49.44,49.44
+2017,Shenzhen,China,Asia,33.77,33.77
+2017,Singapore,Singapore,Asia,53.15,53.23
+2017,Sydney,Australia,Oceania,1.74,1.77
+2017,Taichung,Taiwan,Asia,22.54,22.4
+2017,Taicang,China,Asia,27.27,26.86
+2017,Tianjin,China,Asia,169.95,169.95
+2017,Tangshan,China,Asia,42.25,42.62
+2017,Tanger Med,Morocco,Mediterranean,2.16,2.11
+2017,Tokyo,Japan,Asia,12.27,12.27
+2017,Tanjung Priok,Indonesia,Asia,2.42,2.42
+2017,Tanjung Pelepas,Malaysia,Asia,4.18,4.52
+2017,Tanjung Perak,Indonesia,Asia,3.38,3.38
+2017,Valencia,Spain,Mediterranean,3.74,3.74
+2017,Xiamen,China,Asia,4.66,4.68
+2017,Yingkou,China,Asia,50.9,50.66
+2017,Yantai,China,Asia,3.36,3.36
+2017,Yokohama,Japan,Asia,2.86,2.9
+2017,Zhuhai,China,Asia,5.87,5.87
+2018,Abu Dhabi,UAE,Middle East,23.88,23.8
+2018,Alexandria,Egypt,Middle East,1.44,1.44
+2018,Algeciras,Spain,Mediterranean,2.69,2.75
+2018,Barcelona,Spain,Mediterranean,3.83,3.97
+2018,Busan,South Korea,Asia,21.78,21.78
+2018,Cartagena,Colombia,Central & South America,1.92,1.92
+2018,Colombo,Sri Lanka,Asia,4.4,4.4
+2018,Dalian,China,Asia,19.21,19.21
+2018,Dubai,UAE,Middle East,5.32,5.4
+2018,Durban,South Africa,Africa,0.98,0.98
+2018,Felixstowe,UK,Northern Europe,4.01,4.05
+2018,Genoa,Italy,Mediterranean,1.48,1.58
+2018,Guangzhou,China,Asia,32.27,32.27
+2018,Yeosu Gwangyang,South Korea,Asia,3.35,3.45
+2018,Hai Phong,Vietnam,Asia,13.63,13.63
+2018,Haikou,China,Asia,8.11,8.11
+2018,Hong Kong,China,Asia,4.93,4.93
+2018,Incheon,South Korea,Asia,14.64,14.64
+2018,Jeddah,Saudi Arabia,Middle East,5.66,5.63
+2018,Jiaxing,China,Asia,9.59,9.2
+2018,Jinzhou,China,Asia,1.57,1.57
+2018,Kaohsiung,Taiwan,Asia,15.72,15.72
+2018,Karachi,Pakistan,Asia,4.05,4.73
+2018,Port Klang,Malaysia,Asia,1.59,1.6
+2018,Dammam,Saudi Arabia,Middle East,1.63,1.68
+2018,King Abdullah,Saudi Arabia,Middle East,3.77,3.77
+2018,Kobe,Japan,Asia,8.06,8.06
+2018,Laem Chabang,Thailand,Asia,9.79,9.79
+2018,Le Havre,France,Northern Europe,3.16,3.16
+2018,Lianyungang,China,Asia,42.63,42.63
+2018,Lome,Togo,Africa,1.03,1.03
+2018,Los Angeles,USA,North America,3.54,3.57
+2018,Manila,Philippines,Asia,2.61,2.61
+2018,Manzanillo,Mexico,North America,1.87,1.88
+2018,Jawaharlal Nehru,India,Asia,3.8,3.79
+2018,Mundra,India,Asia,14.9,14.89
+2018,Nagoya,Japan,Asia,7.6,7.6
+2018,Ningbo-Zhoushan,China,Asia,26.3,26.43
+2018,Osaka,Japan,Asia,4.27,4.27
+2018,Piraeus,Greece,Mediterranean,1.28,1.26
+2018,Qingdao,China,Asia,29.12,29.32
+2018,Qinzhou,China,Asia,18.73,18.72
+2018,Quanzhou,China,Asia,1.86,1.87
+2018,Rizhao,China,Asia,15.85,15.85
+2018,Rotterdam,Netherlands,Northern Europe,24.2,24.2
+2018,Said,Egypt,Middle East,1.83,1.83
+2018,Salalah,Oman,Middle East,2.75,2.75
+2018,Shanghai,China,Asia,50.34,50.34
+2018,Shenzhen,China,Asia,33.79,33.79
+2018,Singapore,Singapore,Asia,56.06,56.06
+2018,Sydney,Australia,Oceania,1.77,1.8
+2018,Taichung,Taiwan,Asia,22.49,22.49
+2018,Taicang,China,Asia,27.94,27.27
+2018,Tianjin,China,Asia,177.51,177.51
+2018,Tangshan,China,Asia,43.51,43.51
+2018,Tanger Med,Morocco,Mediterranean,2.11,2.16
+2018,Tokyo,Japan,Asia,12.68,12.68
+2018,Tanjung Priok,Indonesia,Asia,3.31,3.08
+2018,Tanjung Pelepas,Malaysia,Asia,4.29,4.47
+2018,Tanjung Perak,Indonesia,Asia,3.54,3.54
+2018,Valencia,Spain,Mediterranean,3.73,3.74
+2018,Xiamen,China,Asia,4.72,4.72
+2018,Yingkou,China,Asia,50.98,50.9
+2018,Yantai,China,Asia,3.51,3.42
+2018,Yokohama,Japan,Asia,2.79,2.9
+2018,Zhuhai,China,Asia,5.72,5.72
+2019,Abu Dhabi,UAE,Middle East,23.76,23.88
+2019,Alexandria,Egypt,Middle East,1.56,1.56
+2019,Algeciras,Spain,Mediterranean,2.77,2.77
+2019,Barcelona,Spain,Mediterranean,3.97,3.97
+2019,Busan,South Korea,Asia,21.81,21.81
+2019,Cartagena,Colombia,Central & South America,1.92,1.92
+2019,Colombo,Sri Lanka,Asia,4.42,4.42
+2019,Dalian,China,Asia,19.73,19.73
+2019,Dubai,UAE,Middle East,5.3,5.32
+2019,Durban,South Africa,Africa,0.98,0.98
+2019,Felixstowe,UK,Northern Europe,4.05,4.05
+2019,Genoa,Italy,Mediterranean,1.7,1.7
+2019,Guangzhou,China,Asia,32.33,32.33
+2019,Yeosu Gwangyang,South Korea,Asia,3.48,3.48
+2019,Hai Phong,Vietnam,Asia,14.3,14.3
+2019,Haikou,China,Asia,8.28,8.28
+2019,Hong Kong,China,Asia,4.97,4.97
+2019,Incheon,South Korea,Asia,14.38,14.64
+2019,Jeddah,Saudi Arabia,Middle East,5.63,5.66
+2019,Jiaxing,China,Asia,9.17,9.37
+2019,Jinzhou,China,Asia,1.66,1.66
+2019,Kaohsiung,Taiwan,Asia,16,16
+2019,Karachi,Pakistan,Asia,4.73,4.73
+2019,Port Klang,Malaysia,Asia,1.6,1.6
+2019,Dammam,Saudi Arabia,Middle East,1.68,1.68
+2019,King Abdullah,Saudi Arabia,Middle East,3.87,3.87
+2019,Kobe,Japan,Asia,8.01,8.06
+2019,Laem Chabang,Thailand,Asia,9.91,9.91
+2019,Le Havre,France,Northern Europe,3.1,3.16
+2019,Lianyungang,China,Asia,42.79,42.79
+2019,Lome,Togo,Africa,1.05,1.05
+2019,Los Angeles,USA,North America,3.57,3.57
+2019,Manila,Philippines,Asia,2.75,2.75
+2019,Manzanillo,Mexico,North America,1.9,1.9
+2019,Jawaharlal Nehru,India,Asia,3.65,3.79
+2019,Mundra,India,Asia,14.69,14.9
+2019,Nagoya,Japan,Asia,7.48,7.6
+2019,Ningbo-Zhoushan,China,Asia,28.22,28.22
+2019,Osaka,Japan,Asia,4.24,4.27
+2019,Piraeus,Greece,Mediterranean,1.12,1.28
+2019,Qingdao,China,Asia,29.8,29.8
+2019,Qinzhou,China,Asia,18.72,18.73
+2019,Quanzhou,China,Asia,2.26,2.26
+2019,Rizhao,China,Asia,15.87,15.87
+2019,Rotterdam,Netherlands,Northern Europe,24.44,24.44
+2019,Said,Egypt,Middle East,1.83,1.83
+2019,Salalah,Oman,Middle East,2.89,2.89
+2019,Shanghai,China,Asia,50.91,50.91
+2019,Shenzhen,China,Asia,33.83,33.83
+2019,Singapore,Singapore,Asia,56.46,56.46
+2019,Sydney,Australia,Oceania,1.83,1.83
+2019,Taichung,Taiwan,Asia,22.4,22.49
+2019,Taicang,China,Asia,26.86,27.79
+2019,Tianjin,China,Asia,181.75,181.75
+2019,Tangshan,China,Asia,43.99,43.99
+2019,Tanger Med,Morocco,Mediterranean,2.2,2.2
+2019,Tokyo,Japan,Asia,12.96,12.96
+2019,Tanjung Priok,Indonesia,Asia,3.08,3.31
+2019,Tanjung Pelepas,Malaysia,Asia,4.47,4.47
+2019,Tanjung Perak,Indonesia,Asia,3.92,3.92
+2019,Valencia,Spain,Mediterranean,3.81,3.81
+2019,Xiamen,China,Asia,4.78,4.78
+2019,Yingkou,China,Asia,50.66,50.98
+2019,Yantai,China,Asia,3.42,3.51
+2019,Yokohama,Japan,Asia,2.9,2.9
+2019,Zhuhai,China,Asia,6.01,6.01
+2020,Abu Dhabi,UAE,Middle East,24.87,24.87
+2020,Alexandria,Egypt,Middle East,2.26,2.26
+2020,Algeciras,Spain,Mediterranean,3.06,3.06
+2020,Barcelona,Spain,Mediterranean,4.05,4.05
+2020,Busan,South Korea,Asia,21.87,21.87
+2020,Cartagena,Colombia,Central & South America,2.05,2.05
+2020,Colombo,Sri Lanka,Asia,4.88,4.88
+2020,Dalian,China,Asia,20.98,20.98
+2020,Dubai,UAE,Middle East,5.87,5.87
+2020,Durban,South Africa,Africa,1,1
+2020,Felixstowe,UK,Northern Europe,4.62,4.62
+2020,Genoa,Italy,Mediterranean,2.14,2.14
+2020,Guangzhou,China,Asia,32.91,32.91
+2020,Yeosu Gwangyang,South Korea,Asia,3.95,3.95
+2020,Hai Phong,Vietnam,Asia,15.49,15.49
+2020,Haikou,China,Asia,8.4,8.4
+2020,Hong Kong,China,Asia,5.07,5.07
+2020,Incheon,South Korea,Asia,14.92,14.92
+2020,Jeddah,Saudi Arabia,Middle East,5.91,5.91
+2020,Jiaxing,China,Asia,9.37,9.37
+2020,Jinzhou,China,Asia,1.69,1.69
+2020,Kaohsiung,Taiwan,Asia,16.76,16.76
+2020,Karachi,Pakistan,Asia,5.06,5.06
+2020,Port Klang,Malaysia,Asia,1.69,1.69
+2020,Dammam,Saudi Arabia,Middle East,1.99,1.99
+2020,King Abdullah,Saudi Arabia,Middle East,4.02,4.02
+2020,Kobe,Japan,Asia,8.96,8.96
+2020,Laem Chabang,Thailand,Asia,10.05,10.05
+2020,Le Havre,France,Northern Europe,3.85,3.85
+2020,Lianyungang,China,Asia,43.12,43.12
+2020,Lome,Togo,Africa,1.17,1.17
+2020,Los Angeles,USA,North America,3.89,3.89
+2020,Manila,Philippines,Asia,2.97,2.97
+2020,Manzanillo,Mexico,North America,2.94,2.94
+2020,Jawaharlal Nehru,India,Asia,3.79,3.79
+2020,Mundra,India,Asia,15.09,15.09
+2020,Nagoya,Japan,Asia,7.92,7.92
+2020,Ningbo-Zhoushan,China,Asia,28.67,28.67
+2020,Osaka,Japan,Asia,4.61,4.61
+2020,Piraeus,Greece,Mediterranean,1.67,1.67
+2020,Qingdao,China,Asia,30.78,30.78
+2020,Qinzhou,China,Asia,19.18,19.18
+2020,Quanzhou,China,Asia,2.78,2.78
+2020,Rizhao,China,Asia,15.88,15.88
+2020,Rotterdam,Netherlands,Northern Europe,24.76,24.76
+2020,Said,Egypt,Middle East,1.9,1.9
+2020,Salalah,Oman,Middle East,3.07,3.07
+2020,Shanghai,China,Asia,51.86,51.86
+2020,Shenzhen,China,Asia,33.87,33.87
+2020,Singapore,Singapore,Asia,58.86,58.86
+2020,Sydney,Australia,Oceania,2.06,2.06
+2020,Taichung,Taiwan,Asia,23.08,23.08
+2020,Taicang,China,Asia,27.79,27.79
+2020,Tianjin,China,Asia,183.78,183.78
+2020,Tangshan,China,Asia,44.09,44.09
+2020,Tanger Med,Morocco,Mediterranean,2.97,2.97
+2020,Tokyo,Japan,Asia,13.07,13.07
+2020,Tanjung Priok,Indonesia,Asia,3.98,3.98
+2020,Tanjung Pelepas,Malaysia,Asia,4.92,4.92
+2020,Tanjung Perak,Indonesia,Asia,4.07,4.07
+2020,Valencia,Spain,Mediterranean,4.15,4.15
+2020,Xiamen,China,Asia,4.89,4.89
+2020,Yingkou,China,Asia,51.87,51.87
+2020,Yantai,China,Asia,3.98,3.98
+2020,Yokohama,Japan,Asia,3.18,3.18
+2020,Zhuhai,China,Asia,5.77,6.09
