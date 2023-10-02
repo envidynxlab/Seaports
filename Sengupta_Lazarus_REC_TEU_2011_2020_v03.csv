@@ -1,0 +1,431 @@
+Year,Seaport,Country,Region,Region (with China),"Reclaimed area (km^2, raw)",TEU (millions)
+2011,Algeciras,Spain,Mediterranean,Mediterranean,2.67,3.6
+2011,Barcelona,Spain,Mediterranean,Mediterranean,3.44,2.01
+2011,Busan,South Korea,Asia,Asia,13.08,16.18
+2011,Colombo,Sri Lanka,Asia,Asia,0.9,4.26
+2011,Dalian,China,Asia,China,15.2,6.4
+2011,Dubai,UAE,Middle East,Middle East,2.79,13
+2011,Felixstowe,UK,Northern Europe,Northern Europe,1.91,3.52
+2011,Genoa,Italy,Mediterranean,Mediterranean,1.15,1.85
+2011,Guangzhou,China,Asia,China,21.28,14.4
+2011,Hong Kong,China,Asia,China,2.6,24.38
+2011,Incheon,South Korea,Asia,Asia,8.09,1.71
+2011,Jawaharlal Nehru,India,Asia,Asia,1.13,4.22
+2011,Jeddah,Saudi Arabia,Middle East,Middle East,4.14,4
+2011,Karachi,Pakistan,Asia,Asia,4.12,1.4
+2011,Kobe,Japan,Asia,Asia,6.3,2.47
+2011,Laem Chabang,Thailand,Asia,Asia,8.12,5.73
+2011,Le Havre,France,Northern Europe,Northern Europe,2.54,2.22
+2011,Lianyungang,China,Asia,China,18.08,4.85
+2011,Los Angeles,USA,North America,North America,1.79,7.94
+2011,Manila,Philippines,Asia,Asia,1.15,3.25
+2011,Mundra,India,Asia,Asia,11.85,1.34
+2011,Nagoya,Japan,Asia,Asia,4.91,2.62
+2011,Ningbo-Zhoushan,China,Asia,China,19.71,14.69
+2011,Piraeus,Greece,Mediterranean,Mediterranean,0.96,1.68
+2011,Qingdao,China,Asia,China,17.59,13.02
+2011,Rizhao,China,Asia,China,6.38,NaN
+2011,Rotterdam,Netherlands,Northern Europe,Northern Europe,18.04,11.88
+2011,Salalah,Oman,Middle East,Middle East,2.38,3.2
+2011,Shanghai,China,Asia,China,38.02,31.7
+2011,Shenzhen,China,Asia,China,27.31,22.57
+2011,Singapore,Singapore,Asia,Asia,36.63,29.9
+2011,Sydney,Australia,Oceania,Oceania,1.35,2.05
+2011,Tanger Med,Morocco,Mediterranean,Mediterranean,1.34,2.07
+2011,Tangshan,China,Asia,China,36.7,NaN
+2011,Tanjung Pelepas,Malaysia,Asia,Asia,3.16,7.5
+2011,Tanjung Perak,Indonesia,Asia,Asia,0.9,5.62
+2011,Tanjung Priok,Indonesia,Asia,Asia,0.56,5.26
+2011,Tianjin,China,Asia,China,83.4,11.5
+2011,Tokyo,Japan,Asia,Asia,9.38,4.64
+2011,Valencia,Spain,Mediterranean,Mediterranean,4.63,4.3
+2011,Xiamen,China,Asia,China,3.53,6.46
+2011,Yantai,China,Asia,China,2.88,1.71
+2011,Yingkou,China,Asia,China,24.54,4
+2012,Algeciras,Spain,Mediterranean,Mediterranean,2.81,4.11
+2012,Barcelona,Spain,Mediterranean,Mediterranean,3.47,1.76
+2012,Busan,South Korea,Asia,Asia,15.03,17
+2012,Colombo,Sri Lanka,Asia,Asia,0.75,4.18
+2012,Dalian,China,Asia,China,16.77,8
+2012,Dubai,UAE,Middle East,Middle East,3.13,13.27
+2012,Felixstowe,UK,Northern Europe,Northern Europe,1.85,3.7
+2012,Genoa,Italy,Mediterranean,Mediterranean,1.41,2.06
+2012,Guangzhou,China,Asia,China,16.67,14.74
+2012,Hong Kong,China,Asia,China,1.91,23.12
+2012,Incheon,South Korea,Asia,Asia,10.68,1.85
+2012,Jawaharlal Nehru,India,Asia,Asia,1.61,4.26
+2012,Jeddah,Saudi Arabia,Middle East,Middle East,3.99,4.74
+2012,Karachi,Pakistan,Asia,Asia,4.39,1.49
+2012,Kobe,Japan,Asia,Asia,7.22,2.57
+2012,Laem Chabang,Thailand,Asia,Asia,7.8,5.83
+2012,Le Havre,France,Northern Europe,Northern Europe,2.31,2.31
+2012,Lianyungang,China,Asia,China,30.66,5.02
+2012,Los Angeles,USA,North America,North America,1.71,8.08
+2012,Manila,Philippines,Asia,Asia,1.95,3.71
+2012,Mundra,India,Asia,Asia,13.7,1.52
+2012,Nagoya,Japan,Asia,Asia,5.63,2.66
+2012,Ningbo-Zhoushan,China,Asia,China,22.95,15.67
+2012,Piraeus,Greece,Mediterranean,Mediterranean,0.9,2.75
+2012,Qingdao,China,Asia,China,21.37,14.5
+2012,Rizhao,China,Asia,China,7.69,NaN
+2012,Rotterdam,Netherlands,Northern Europe,Northern Europe,20.17,11.87
+2012,Salalah,Oman,Middle East,Middle East,2.59,3.62
+2012,Shanghai,China,Asia,China,45.41,32.5
+2012,Shenzhen,China,Asia,China,21,22.94
+2012,Singapore,Singapore,Asia,Asia,43.42,31.6
+2012,Sydney,Australia,Oceania,Oceania,1.34,2.09
+2012,Tanger Med,Morocco,Mediterranean,Mediterranean,1.39,1.9
+2012,Tangshan,China,Asia,China,41.66,NaN
+2012,Tanjung Pelepas,Malaysia,Asia,Asia,3.29,7.7
+2012,Tanjung Perak,Indonesia,Asia,Asia,1.14,6.2
+2012,Tanjung Priok,Indonesia,Asia,Asia,0.6,6.2
+2012,Tianjin,China,Asia,China,132.35,12.3
+2012,Tokyo,Japan,Asia,Asia,9.57,4.75
+2012,Valencia,Spain,Mediterranean,Mediterranean,4.67,4.47
+2012,Xiamen,China,Asia,China,3.45,7.2
+2012,Yantai,China,Asia,China,2.85,1.85
+2012,Yingkou,China,Asia,China,32.71,4.8
+2013,Algeciras,Spain,Mediterranean,Mediterranean,3.04,4.5
+2013,Barcelona,Spain,Mediterranean,Mediterranean,3.53,1.72
+2013,Busan,South Korea,Asia,Asia,16.26,17.69
+2013,Colombo,Sri Lanka,Asia,Asia,1.37,4.31
+2013,Dalian,China,Asia,China,18.07,10.86
+2013,Dubai,UAE,Middle East,Middle East,3.58,13.64
+2013,Felixstowe,UK,Northern Europe,Northern Europe,1.94,3.74
+2013,Genoa,Italy,Mediterranean,Mediterranean,1.47,1.99
+2013,Guangzhou,China,Asia,China,28.98,15.31
+2013,Hong Kong,China,Asia,China,2.79,22.25
+2013,Incheon,South Korea,Asia,Asia,10.91,2.15
+2013,Jawaharlal Nehru,India,Asia,Asia,1.21,4.16
+2013,Jeddah,Saudi Arabia,Middle East,Middle East,5.25,4.56
+2013,Karachi,Pakistan,Asia,Asia,4.47,1.56
+2013,Kobe,Japan,Asia,Asia,7.64,2.55
+2013,Laem Chabang,Thailand,Asia,Asia,8.65,6.03
+2013,Le Havre,France,Northern Europe,Northern Europe,2.6,2.49
+2013,Lianyungang,China,Asia,China,31.16,5.49
+2013,Los Angeles,USA,North America,North America,1.98,7.87
+2013,Manila,Philippines,Asia,Asia,2.06,3.77
+2013,Mundra,India,Asia,Asia,14.56,2.39
+2013,Nagoya,Japan,Asia,Asia,5.88,2.71
+2013,Ningbo-Zhoushan,China,Asia,China,28.37,17.35
+2013,Piraeus,Greece,Mediterranean,Mediterranean,1.15,3.16
+2013,Qingdao,China,Asia,China,24.79,15.52
+2013,Rizhao,China,Asia,China,8.57,2.03
+2013,Rotterdam,Netherlands,Northern Europe,Northern Europe,21.18,11.62
+2013,Salalah,Oman,Middle East,Middle East,2.81,3.34
+2013,Shanghai,China,Asia,China,50.79,33.6
+2013,Shenzhen,China,Asia,China,31.21,23.28
+2013,Singapore,Singapore,Asia,Asia,49.64,32.2
+2013,Sydney,Australia,Oceania,Oceania,1.37,2.15
+2013,Tanger Med,Morocco,Mediterranean,Mediterranean,2.02,2.56
+2013,Tangshan,China,Asia,China,44.38,NaN
+2013,Tanjung Pelepas,Malaysia,Asia,Asia,3.89,7.63
+2013,Tanjung Perak,Indonesia,Asia,Asia,1.24,6.59
+2013,Tanjung Priok,Indonesia,Asia,Asia,0.78,6.59
+2013,Tianjin,China,Asia,China,131.15,13
+2013,Tokyo,Japan,Asia,Asia,10.82,4.86
+2013,Valencia,Spain,Mediterranean,Mediterranean,4.81,4.33
+2013,Xiamen,China,Asia,China,3.92,8.01
+2013,Yantai,China,Asia,China,3.31,2.15
+2013,Yingkou,China,Asia,China,39.01,5.3
+2014,Algeciras,Spain,Mediterranean,Mediterranean,2.83,4.55
+2014,Barcelona,Spain,Mediterranean,Mediterranean,3.53,1.89
+2014,Busan,South Korea,Asia,Asia,16.24,18.63
+2014,Colombo,Sri Lanka,Asia,Asia,1.5,4.9
+2014,Dalian,China,Asia,China,18.06,9.4
+2014,Dubai,UAE,Middle East,Middle East,3.41,15.24
+2014,Felixstowe,UK,Northern Europe,Northern Europe,1.87,4.1
+2014,Genoa,Italy,Mediterranean,Mediterranean,1.5,2.17
+2014,Guangzhou,China,Asia,China,27.41,16.62
+2014,Hong Kong,China,Asia,China,3.65,22.28
+2014,Incheon,South Korea,Asia,Asia,11.75,2.35
+2014,Jawaharlal Nehru,India,Asia,Asia,1.6,4.45
+2014,Jeddah,Saudi Arabia,Middle East,Middle East,4.74,4.21
+2014,Karachi,Pakistan,Asia,Asia,4.97,1.72
+2014,Kobe,Japan,Asia,Asia,7.37,3.61
+2014,Laem Chabang,Thailand,Asia,Asia,8.39,6.53
+2014,Le Havre,France,Northern Europe,Northern Europe,2.7,2.55
+2014,Lianyungang,China,Asia,China,35.77,5
+2014,Los Angeles,USA,North America,North America,2.14,8.34
+2014,Manila,Philippines,Asia,Asia,2.15,3.81
+2014,Mundra,India,Asia,Asia,15.31,2.72
+2014,Nagoya,Japan,Asia,Asia,6.25,2.73
+2014,Ningbo-Zhoushan,China,Asia,China,25.54,19.43
+2014,Piraeus,Greece,Mediterranean,Mediterranean,1.04,3.58
+2014,Qingdao,China,Asia,China,26.6,16.62
+2014,Rizhao,China,Asia,China,10.26,2.42
+2014,Rotterdam,Netherlands,Northern Europe,Northern Europe,21.4,12.29
+2014,Salalah,Oman,Middle East,Middle East,2.95,3.03
+2014,Shanghai,China,Asia,China,48.53,35.3
+2014,Shenzhen,China,Asia,China,31.1,24.03
+2014,Singapore,Singapore,Asia,Asia,50.67,33.8
+2014,Sydney,Australia,Oceania,Oceania,1.31,2.51
+2014,Tanger Med,Morocco,Mediterranean,Mediterranean,1.98,3.08
+2014,Tangshan,China,Asia,China,44.83,1.1
+2014,Tanjung Pelepas,Malaysia,Asia,Asia,4.13,8.52
+2014,Tanjung Perak,Indonesia,Asia,Asia,1.61,5.9
+2014,Tanjung Priok,Indonesia,Asia,Asia,0.88,5.9
+2014,Tianjin,China,Asia,China,167.94,14
+2014,Tokyo,Japan,Asia,Asia,11.34,4.89
+2014,Valencia,Spain,Mediterranean,Mediterranean,4.64,4.44
+2014,Xiamen,China,Asia,China,4.08,8.57
+2014,Yantai,China,Asia,China,3.17,2.35
+2014,Yingkou,China,Asia,China,43.6,5.61
+2015,Algeciras,Spain,Mediterranean,Mediterranean,2.78,4.51
+2015,Barcelona,Spain,Mediterranean,Mediterranean,3.6,1.96
+2015,Busan,South Korea,Asia,Asia,16.19,19.46
+2015,Colombo,Sri Lanka,Asia,Asia,1.33,5.18
+2015,Dalian,China,Asia,China,18.23,9.45
+2015,Dubai,UAE,Middle East,Middle East,3.74,15.59
+2015,Felixstowe,UK,Northern Europe,Northern Europe,1.87,3.98
+2015,Genoa,Italy,Mediterranean,Mediterranean,1.4,2.24
+2015,Guangzhou,China,Asia,China,30.33,17.64
+2015,Hong Kong,China,Asia,China,3.05,20.11
+2015,Incheon,South Korea,Asia,Asia,10.83,2.45
+2015,Jawaharlal Nehru,India,Asia,Asia,1.33,4.48
+2015,Jeddah,Saudi Arabia,Middle East,Middle East,4.35,4.18
+2015,Karachi,Pakistan,Asia,Asia,4.38,1.96
+2015,Kobe,Japan,Asia,Asia,7.55,2.7
+2015,Laem Chabang,Thailand,Asia,Asia,8.46,6.78
+2015,Le Havre,France,Northern Europe,Northern Europe,2.58,2.56
+2015,Lianyungang,China,Asia,China,33.02,5
+2015,Los Angeles,USA,North America,North America,1.99,8.16
+2015,Manila,Philippines,Asia,Asia,1.98,3.97
+2015,Mundra,India,Asia,Asia,15.28,2.85
+2015,Nagoya,Japan,Asia,Asia,6.37,2.63
+2015,Ningbo-Zhoushan,China,Asia,China,26.88,26.62
+2015,Piraeus,Greece,Mediterranean,Mediterranean,0.94,3.33
+2015,Qingdao,China,Asia,China,26.22,17.51
+2015,Rizhao,China,Asia,China,8.2,2.81
+2015,Rotterdam,Netherlands,Northern Europe,Northern Europe,20.39,12.23
+2015,Salalah,Oman,Middle East,Middle East,2.63,2.56
+2015,Shanghai,China,Asia,China,49.41,36.5
+2015,Shenzhen,China,Asia,China,32.46,24.2
+2015,Singapore,Singapore,Asia,Asia,47.21,30.9
+2015,Sydney,Australia,Oceania,Oceania,1.4,2.3
+2015,Tanger Med,Morocco,Mediterranean,Mediterranean,0.13,2.96
+2015,Tangshan,China,Asia,China,45.45,1.52
+2015,Tanjung Pelepas,Malaysia,Asia,Asia,3.36,9.12
+2015,Tanjung Perak,Indonesia,Asia,Asia,1.71,5.2
+2015,Tanjung Priok,Indonesia,Asia,Asia,0.79,5.2
+2015,Tianjin,China,Asia,China,183.25,14.1
+2015,Tokyo,Japan,Asia,Asia,11.48,4.62
+2015,Valencia,Spain,Mediterranean,Mediterranean,4.76,4.61
+2015,Xiamen,China,Asia,China,3.97,9.18
+2015,Yantai,China,Asia,China,3.13,2.45
+2015,Yingkou,China,Asia,China,47.64,5.92
+2016,Algeciras,Spain,Mediterranean,Mediterranean,2.87,4.76
+2016,Barcelona,Spain,Mediterranean,Mediterranean,3.55,2.23
+2016,Busan,South Korea,Asia,Asia,16.62,19.85
+2016,Colombo,Sri Lanka,Asia,Asia,2.13,5.73
+2016,Dalian,China,Asia,China,18.44,9.61
+2016,Dubai,UAE,Middle East,Middle East,4.98,15.73
+2016,Felixstowe,UK,Northern Europe,Northern Europe,2.05,4
+2016,Genoa,Italy,Mediterranean,Mediterranean,1.56,2.29
+2016,Guangzhou,China,Asia,China,29.38,18.85
+2016,Hong Kong,China,Asia,China,4.42,19.81
+2016,Incheon,South Korea,Asia,Asia,12.91,2.6
+2016,Jawaharlal Nehru,India,Asia,Asia,2.49,4.51
+2016,Jeddah,Saudi Arabia,Middle East,Middle East,4.8,3.95
+2016,Karachi,Pakistan,Asia,Asia,5.12,2.1
+2016,Kobe,Japan,Asia,Asia,7.63,2.8
+2016,Laem Chabang,Thailand,Asia,Asia,8.98,7.22
+2016,Le Havre,France,Northern Europe,Northern Europe,2.57,2.51
+2016,Lianyungang,China,Asia,China,45.01,4.7
+2016,Los Angeles,USA,North America,North America,2.25,8.86
+2016,Manila,Philippines,Asia,Asia,2.08,4.52
+2016,Mundra,India,Asia,Asia,15.58,4.8
+2016,Nagoya,Japan,Asia,Asia,6.31,2.65
+2016,Ningbo-Zhoushan,China,Asia,China,27.13,21.6
+2016,Piraeus,Greece,Mediterranean,Mediterranean,1.11,3.73
+2016,Qingdao,China,Asia,China,29.36,18.01
+2016,Rizhao,China,Asia,China,14.59,3.01
+2016,Rotterdam,Netherlands,Northern Europe,Northern Europe,21.19,12.38
+2016,Salalah,Oman,Middle East,Middle East,3.03,3.32
+2016,Shanghai,China,Asia,China,50.01,37.13
+2016,Shenzhen,China,Asia,China,33.09,23.97
+2016,Singapore,Singapore,Asia,Asia,54.19,30.9
+2016,Sydney,Australia,Oceania,Oceania,1.41,2.36
+2016,Tanger Med,Morocco,Mediterranean,Mediterranean,1.97,2.96
+2016,Tangshan,China,Asia,China,44.75,1.93
+2016,Tanjung Pelepas,Malaysia,Asia,Asia,3.99,8.28
+2016,Tanjung Perak,Indonesia,Asia,Asia,3.28,5.51
+2016,Tanjung Priok,Indonesia,Asia,Asia,1.8,5.51
+2016,Tianjin,China,Asia,China,155.6,14.4
+2016,Tokyo,Japan,Asia,Asia,11.84,4.25
+2016,Valencia,Spain,Mediterranean,Mediterranean,4.67,4.72
+2016,Xiamen,China,Asia,China,4.02,9.61
+2016,Yantai,China,Asia,China,3.25,2.6
+2016,Yingkou,China,Asia,China,49.57,6.08
+2017,Algeciras,Spain,Mediterranean,Mediterranean,2.87,4.38
+2017,Barcelona,Spain,Mediterranean,Mediterranean,3.57,2.96
+2017,Busan,South Korea,Asia,Asia,17.93,20.49
+2017,Colombo,Sri Lanka,Asia,Asia,2.97,6.21
+2017,Dalian,China,Asia,China,18.51,9.7
+2017,Dubai,UAE,Middle East,Middle East,5.06,15.37
+2017,Felixstowe,UK,Northern Europe,Northern Europe,1.91,3.84
+2017,Genoa,Italy,Mediterranean,Mediterranean,1.58,2.62
+2017,Guangzhou,China,Asia,China,26.74,20.37
+2017,Hong Kong,China,Asia,China,4.47,20.76
+2017,Incheon,South Korea,Asia,Asia,13.91,2.7
+2017,Jawaharlal Nehru,India,Asia,Asia,3,4.83
+2017,Jeddah,Saudi Arabia,Middle East,Middle East,4.83,4.15
+2017,Karachi,Pakistan,Asia,Asia,5.31,2.22
+2017,Kobe,Japan,Asia,Asia,8.1,2.92
+2017,Laem Chabang,Thailand,Asia,Asia,8.7,7.78
+2017,Le Havre,France,Northern Europe,Northern Europe,2.69,2.87
+2017,Lianyungang,China,Asia,China,46.83,4.71
+2017,Los Angeles,USA,North America,North America,2.08,9.43
+2017,Manila,Philippines,Asia,Asia,2.25,4.78
+2017,Mundra,India,Asia,Asia,15.58,4.24
+2017,Nagoya,Japan,Asia,Asia,6.55,2.78
+2017,Ningbo-Zhoushan,China,Asia,China,27.19,24.61
+2017,Piraeus,Greece,Mediterranean,Mediterranean,1.11,4.15
+2017,Qingdao,China,Asia,China,29.86,18.3
+2017,Rizhao,China,Asia,China,14.82,3.24
+2017,Rotterdam,Netherlands,Northern Europe,Northern Europe,20.99,13.73
+2017,Salalah,Oman,Middle East,Middle East,3.03,3.94
+2017,Shanghai,China,Asia,China,50.05,40.23
+2017,Shenzhen,China,Asia,China,32.02,25.21
+2017,Singapore,Singapore,Asia,Asia,53.91,33.67
+2017,Sydney,Australia,Oceania,Oceania,1.37,2.53
+2017,Tanger Med,Morocco,Mediterranean,Mediterranean,2.15,3.31
+2017,Tangshan,China,Asia,China,44.73,2.53
+2017,Tanjung Pelepas,Malaysia,Asia,Asia,3.71,8.26
+2017,Tanjung Perak,Indonesia,Asia,Asia,3.5,6.09
+2017,Tanjung Priok,Indonesia,Asia,Asia,2.94,6.09
+2017,Tianjin,China,Asia,China,177.92,15
+2017,Tokyo,Japan,Asia,Asia,11.51,4.5
+2017,Valencia,Spain,Mediterranean,Mediterranean,4.68,4.83
+2017,Xiamen,China,Asia,China,4.13,10.38
+2017,Yantai,China,Asia,China,3.28,2.7
+2017,Yingkou,China,Asia,China,51.72,6.28
+2018,Algeciras,Spain,Mediterranean,Mediterranean,2.82,4.77
+2018,Barcelona,Spain,Mediterranean,Mediterranean,3.46,3.42
+2018,Busan,South Korea,Asia,Asia,16.41,21.66
+2018,Colombo,Sri Lanka,Asia,Asia,4.08,7.05
+2018,Dalian,China,Asia,China,18.96,9.77
+2018,Dubai,UAE,Middle East,Middle East,4.93,14.95
+2018,Felixstowe,UK,Northern Europe,Northern Europe,1.93,3.93
+2018,Genoa,Italy,Mediterranean,Mediterranean,1.48,2.67
+2018,Guangzhou,China,Asia,China,30.24,21.87
+2018,Hong Kong,China,Asia,China,4.35,19.6
+2018,Incheon,South Korea,Asia,Asia,13.86,3
+2018,Jawaharlal Nehru,India,Asia,Asia,2.87,5.13
+2018,Jeddah,Saudi Arabia,Middle East,Middle East,4.86,4.11
+2018,Karachi,Pakistan,Asia,Asia,5.21,2.19
+2018,Kobe,Japan,Asia,Asia,8.01,2.94
+2018,Laem Chabang,Thailand,Asia,Asia,8.64,8.07
+2018,Le Havre,France,Northern Europe,Northern Europe,2.65,2.87
+2018,Lianyungang,China,Asia,China,44.22,4.75
+2018,Los Angeles,USA,North America,North America,2.08,9.46
+2018,Manila,Philippines,Asia,Asia,2.37,5.05
+2018,Mundra,India,Asia,Asia,15.54,4.44
+2018,Nagoya,Japan,Asia,Asia,6.84,2.87
+2018,Ningbo-Zhoushan,China,Asia,China,27.42,26.35
+2018,Piraeus,Greece,Mediterranean,Mediterranean,1.18,4.91
+2018,Qingdao,China,Asia,China,29.61,18.26
+2018,Rizhao,China,Asia,China,14.13,4
+2018,Rotterdam,Netherlands,Northern Europe,Northern Europe,23.91,14.51
+2018,Salalah,Oman,Middle East,Middle East,3.08,3.39
+2018,Shanghai,China,Asia,China,51.82,42.01
+2018,Shenzhen,China,Asia,China,33.13,27.74
+2018,Singapore,Singapore,Asia,Asia,56.8,36.6
+2018,Sydney,Australia,Oceania,Oceania,1.39,2.64
+2018,Tanger Med,Morocco,Mediterranean,Mediterranean,2.11,3.47
+2018,Tangshan,China,Asia,China,45.85,2.95
+2018,Tanjung Pelepas,Malaysia,Asia,Asia,3.85,8.96
+2018,Tanjung Perak,Indonesia,Asia,Asia,3.52,7.8
+2018,Tanjung Priok,Indonesia,Asia,Asia,3.95,7.8
+2018,Tianjin,China,Asia,China,176.74,15.9
+2018,Tokyo,Japan,Asia,Asia,11.72,4.57
+2018,Valencia,Spain,Mediterranean,Mediterranean,4.66,5.12
+2018,Xiamen,China,Asia,China,4.05,10.7
+2018,Yantai,China,Asia,China,3.44,3
+2018,Yingkou,China,Asia,China,51.71,6.5
+2019,Algeciras,Spain,Mediterranean,Mediterranean,2.91,5.12
+2019,Barcelona,Spain,Mediterranean,Mediterranean,3.59,3.32
+2019,Busan,South Korea,Asia,Asia,17.91,21.99
+2019,Colombo,Sri Lanka,Asia,Asia,4.62,7.23
+2019,Dalian,China,Asia,China,18.76,10.21
+2019,Dubai,UAE,Middle East,Middle East,4.94,14.11
+2019,Felixstowe,UK,Northern Europe,Northern Europe,1.99,3.58
+2019,Genoa,Italy,Mediterranean,Mediterranean,1.71,2.62
+2019,Guangzhou,China,Asia,China,32.58,23.23
+2019,Hong Kong,China,Asia,China,4.44,18.3
+2019,Incheon,South Korea,Asia,Asia,13.73,3.1
+2019,Jawaharlal Nehru,India,Asia,Asia,2.86,5.1
+2019,Jeddah,Saudi Arabia,Middle East,Middle East,4.83,4.43
+2019,Karachi,Pakistan,Asia,Asia,5.25,2.09
+2019,Kobe,Japan,Asia,Asia,8.07,2.87
+2019,Laem Chabang,Thailand,Asia,Asia,8.95,8.1
+2019,Le Havre,France,Northern Europe,Northern Europe,2.57,2.82
+2019,Lianyungang,China,Asia,China,40.75,4.74
+2019,Los Angeles,USA,North America,North America,2.15,9.3
+2019,Manila,Philippines,Asia,Asia,2.5,5.31
+2019,Mundra,India,Asia,Asia,15.4,4.73
+2019,Nagoya,Japan,Asia,Asia,6.75,2.84
+2019,Ningbo-Zhoushan,China,Asia,China,29.15,27.49
+2019,Piraeus,Greece,Mediterranean,Mediterranean,1.04,5.67
+2019,Qingdao,China,Asia,China,27.19,21.01
+2019,Rizhao,China,Asia,China,14,4.5
+2019,Rotterdam,Netherlands,Northern Europe,Northern Europe,22.18,14.82
+2019,Salalah,Oman,Middle East,Middle East,3.12,4.11
+2019,Shanghai,China,Asia,China,51.39,43.3
+2019,Shenzhen,China,Asia,China,32.91,25.77
+2019,Singapore,Singapore,Asia,Asia,57.22,37.2
+2019,Sydney,Australia,Oceania,Oceania,1.45,2.57
+2019,Tanger Med,Morocco,Mediterranean,Mediterranean,2.2,4.8
+2019,Tangshan,China,Asia,China,45.9,2.94
+2019,Tanjung Pelepas,Malaysia,Asia,Asia,3.97,9.11
+2019,Tanjung Perak,Indonesia,Asia,Asia,3.66,7.6
+2019,Tanjung Priok,Indonesia,Asia,Asia,3.72,7.6
+2019,Tianjin,China,Asia,China,191.65,17.3
+2019,Tokyo,Japan,Asia,Asia,11.22,4.51
+2019,Valencia,Spain,Mediterranean,Mediterranean,4.73,5.43
+2019,Xiamen,China,Asia,China,4.03,11.12
+2019,Yantai,China,Asia,China,3.34,3.1
+2019,Yingkou,China,Asia,China,51.66,5.48
+2020,Algeciras,Spain,Mediterranean,Mediterranean,3.1,5.11
+2020,Barcelona,Spain,Mediterranean,Mediterranean,4.07,5.77
+2020,Busan,South Korea,Asia,Asia,19.39,21.59
+2020,Colombo,Sri Lanka,Asia,Asia,4.77,6.85
+2020,Dalian,China,Asia,China,20.03,6.54
+2020,Dubai,UAE,Middle East,Middle East,5.04,13.5
+2020,Felixstowe,UK,Northern Europe,Northern Europe,1.99,3.435
+2020,Genoa,Italy,Mediterranean,Mediterranean,2.08,2.49885
+2020,Guangzhou,China,Asia,China,32.7,23.19
+2020,Hong Kong,China,Asia,China,5.42,17.95
+2020,Incheon,South Korea,Asia,Asia,14.73,3.272213
+2020,Jawaharlal Nehru,India,Asia,Asia,3.43,4.68
+2020,Jeddah,Saudi Arabia,Middle East,Middle East,5.23,4.737313
+2020,Karachi,Pakistan,Asia,Asia,5.49,2.079
+2020,Kobe,Japan,Asia,Asia,8.28,2.647066
+2020,Laem Chabang,Thailand,Asia,Asia,9.78,7.55
+2020,Le Havre,France,Northern Europe,Northern Europe,3.31,2.417
+2020,Lianyungang,China,Asia,China,43.55,4.8
+2020,Los Angeles,USA,North America,North America,3.28,9.2
+2020,Manila,Philippines,Asia,Asia,2.57,4.43
+2020,Mundra,India,Asia,Asia,15.44,5.656594
+2020,Nagoya,Japan,Asia,Asia,7.95,2.471146
+2020,Ningbo-Zhoushan,China,Asia,China,28.94,28.72
+2020,Piraeus,Greece,Mediterranean,Mediterranean,1.51,5.44
+2020,Qingdao,China,Asia,China,30.32,22
+2020,Rizhao,China,Asia,China,15.71,4.86
+2020,Rotterdam,Netherlands,Northern Europe,Northern Europe,23.42,14.35
+2020,Salalah,Oman,Middle East,Middle East,3.04,4.34
+2020,Shanghai,China,Asia,China,51.07,43.5
+2020,Shenzhen,China,Asia,China,33.76,26.55
+2020,Singapore,Singapore,Asia,Asia,58.35,36.6
+2020,Sydney,Australia,Oceania,Oceania,1.42,2.395773
+2020,Tanger Med,Morocco,Mediterranean,Mediterranean,2.68,5.77
+2020,Tangshan,China,Asia,China,46.41,3.12
+2020,Tanjung Pelepas,Malaysia,Asia,Asia,4.04,9.85
+2020,Tanjung Perak,Indonesia,Asia,Asia,4.01,6.17
+2020,Tanjung Priok,Indonesia,Asia,Asia,3.5,7.55
+2020,Tianjin,China,Asia,China,183.9,18.35
+2020,Tokyo,Japan,Asia,Asia,13.74,4.261793
+2020,Valencia,Spain,Mediterranean,Mediterranean,4.76,5.43
+2020,Xiamen,China,Asia,China,4.31,11.41
+2020,Yantai,China,Asia,China,3.69,3.3002
+2020,Yingkou,China,Asia,China,51.33,5.67
